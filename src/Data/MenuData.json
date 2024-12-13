@@ -1,0 +1,709 @@
+{
+    "food": {
+      "appetizers": [
+        {
+          "id": 1,
+          "name": "Chicken Wings",
+          "price": "6,000",
+          "description": "Served With Rodu Pepper dip, Redhorn Sauce or BBQ Sauce."
+        },
+        {
+          "id": 2,
+          "name": "Meatballs in Marinara Sauce",
+          "price": "6,000",
+          "description": "Juicy Meatballs Simmered In A Rich Tomatoes Marinara Sauce, Served With Garlic Butter Toast."
+        },
+        {
+          "id": 3,
+          "name": "Goat Meat Skewers",
+          "price": "6,000",
+          "description": "2 Skewers of Fried Goat Meat and Yam Served With Chill Sauce."
+        },
+        {
+          "id": 4,
+          "name": "Crispy Calamari",
+          "price": "10,000",
+          "description": "Crispy Fried Calamari Wedge And Special Tartar Sauce."
+        },
+        {
+          "id": 5,
+          "name": "Tempura Beer Prawns",
+          "price": "10,000",
+          "description": "Fried Prawns Served With Lemon Wedge And Tartar Sauce."
+        },
+        {
+          "id": 6,
+          "name": "Dynamite Shrimps",
+          "price": "10,000",
+          "description": "Red Cabbage, Shrimps, and Dynamite Sauce."
+        },
+        {
+          "id": 7,
+          "name": "Ram Roll",
+          "price": "7,000",
+          "description": "Medium Spicy Shredded Ram Meat Roll In Freshly Made Pastry And Flower Balls."
+        }
+      ],
+      "burgers": [
+        {
+          "id": 1,
+          "name": "Classic Burger",
+          "price": "9,000",
+          "description": "Homemade Beef Patty Layered With Redhorn Sauce, Lettuce, Tomatoes, Onions And Pickle's, Topped With Cheese And Bacon, Served With French Fries."
+        },
+        {
+          "id": 2,
+          "name": "Max Burger",
+          "price": "10,500",
+          "description": "Homemade Double Patty Layered With Redhorn Sauce, Lettuce, Jalapeno, And Tomatoes Topped With Cheese And Potato Sticks, Served With French Fries."
+        },
+        {
+          "id": 3,
+          "name": "Redhorn BBQ Burger",
+          "price": "9,000",
+          "description": "Grilled Chicken Dipped With BBQ Sauce Layered With Mayo Sauce, Lettuce, Tomatoes And Pickles, Topped With Cheese, Served With French Fries."
+        },
+        {
+          "id": 4,
+          "name": "Sloppy Friday",
+          "price": "9,000",
+          "description": "Redhorn Burger Bun, Beef Patty With Lettuce, Tomatoes, Cheese, Fried Plantain, Suya Onions Ring And Our Redhorn Sauce."
+        },
+        {
+          "id": 5,
+          "name": "Thigh Chicken Burger",
+          "price": "9,200",
+          "description": "Grilled Chicken Thigh Layered With Special Sauce, Lettuce, Tomatoes, Onions, Pickles And Cheese, Served With French Fries."
+        }
+      ],
+      "main course": [
+        {
+          "id": 1,
+          "name": "Mongolian Beef",
+          "price": "14,000",
+          "description": "Tender Beef Fillet Marinated In A Mongolian Sauce Paired With Sauteed Vegetables And Fragrant Thai Rice Or Singapore Noodles."
+        },
+        {
+          "id": 2,
+          "name": "Half Roast Chicken",
+          "price": "12,000",
+          "description": "Marinated Half Roast Served With A Side Of Your Choice And Homemade Sauce."
+        },
+        {
+          "id": 3,
+          "name": "Chicken Stir Fry",
+          "price": "12,000",
+          "description": "Mixed Vegetables Cooked With Chicken and Served With Steamed Rice."
+        },
+        {
+          "id": 4,
+          "name": "Beef Stir Fry",
+          "price": "13,500",
+          "description": "Mixed Vegetables Cooked With Beef and Served With Steamed Rice."
+        },
+        {
+          "id": 5,
+          "name": "Special Fried Rice",
+          "price": "14,000",
+          "description": "Basmati Rice Made In Chinese Style, Accompanied With Scrambled Egg, Shrimps, And Beef On A Pineapple Fruit Bed."
+        }
+      ],
+      "pasta": [
+        {
+          "id": 1,
+          "name": "Penne Arrabiata",
+          "price": "10,000",
+          "description": "Penne Pasta Tossed In A Zesty Tomato Arrabiata Sauce Topped With Parmesan Cheese And Fresh Basil."
+        },
+        {
+          "id": 2,
+          "name": "Creamy Pasta",
+          "price": "13,000",
+          "description": "Penne Pasta Cooked With Creamy Sauce Topped With Crispy Bacon (Choice Of Chicken Or Beef)."
+        },
+        {
+          "id": 3,
+          "name": "Seafood Spaghetti",
+          "price": "15,000",
+          "description": "Spaghetti Cooked With Homemade Spicy Red Pasta Sauce, Fresh Shrimps, And Fresh Prawns."
+        },
+        {
+          "id": 4,
+          "name": "Spaghetti Bolognese",
+          "price": "10,000",
+          "description": "Nigeria Style Bolognese Topped With Fried Plantain."
+        },
+        {
+          "id": 5,
+          "name": "Seafood Pasta",
+          "price": "16,000",
+          "description": "Penne Pasta Cooked With Homemade Spicy Red Pasta Sauce, Fresh Shrimps, Fresh Fish, Topped With Crispy Calamari."
+        },
+        {
+          "id": 6,
+          "name": "Chicken Pesto Pasta",
+          "price": "10,000",
+          "description": "Fusilli Pasta Cooked With Chicken And Pesto Sauce, Topped With Parmesan Cheese."
+        }
+      ],
+      "salads": [
+        {
+          "id": 1,
+          "name": "Chicken Caesar Salad",
+          "price": "9,000",
+          "description": "Grilled Chicken Breast, Crunchy Croutons, Cherry Tomatoes, Perfectly Dressed With Zesty Homemade Caesar Sauce."
+        },
+        {
+          "id": 2,
+          "name": "Pasta Salad",
+          "price": "7,000",
+          "description": "Pasta Mixed With Irish Potato And Varieties Of Vegetables Paired With Creamy Mayo Dressing."
+        },
+        {
+          "id": 3,
+          "name": "Cobb Salad",
+          "price": "11,000",
+          "description": "Mixed Greens Topped With Grilled Chicken, Avocado, Tomatoes, Sweet Corn, Groundnut, And Boiled Egg, Served With Honey Mustard Dressing."
+        }
+      ],
+      "sides": [
+        {
+          "id": 1,
+          "name": "French Fries",
+          "price": "4,000",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Yam Fries",
+          "price": "4,000",
+          "description": ""
+        },
+        {
+          "id": 3,
+          "name": "Fried Plantain",
+          "price": "4,000",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "Steamed Rice",
+          "price": "4,000",
+          "description": ""
+        },
+        {
+          "id": 5,
+          "name": "Mashed Potatoes",
+          "price": "5,000",
+          "description": ""
+        },
+        {
+          "id": 6,
+          "name": "Jollof Rice",
+          "price": "5,000",
+          "description": ""
+        }
+      ],
+      "grills": [
+      {
+        "id": 1,
+        "name": "Grilled Chicken Lap",
+        "price": "12,000",
+        "description": "Roasted Chicken Lap With Homemade Creamy Spices Sauce And Sauteed Vegetables Served With Side Of Choice."
+      },
+      {
+        "id": 2,
+        "name": "Fillet Mention",
+        "price": "20,000",
+        "description": "Grilled Tenderloin Served On A Bed Of Mashed Potato, Fine Beans, Side Of Cauliflower, Grilled Tomato And Demi-glazed Sauce."
+      },
+      {
+        "id": 3,
+        "name": "Ribeye Steak",
+        "price": "22,000",
+        "description": "Grilled Premium Steak Served With Side Of Choice."
+      },
+      {
+        "id": 4,
+        "name": "Lamp Chops-Luxe",
+        "price": "22,000",
+        "description": "Grilled Lamb Chops, Mixed Vegetables Served With Side Of Choice."
+      },
+      {
+        "id": 5,
+        "name": "T-Bone Steak",
+        "price": "25,000",
+        "description": "Premium Steak Served With Steamed Vegetables And Side Of Choice."
+      },
+      {
+        "id": 6,
+        "name": "Red Snapper Fillet Elegance",
+        "price": "25,000",
+        "description": "Grilled Snapper Fish Fillet Served On A Creamy Mashed Potato, Steamed Vegetables And A Luscious Creamy Sauce."
+      },
+      {
+        "id": 7,
+        "name": "Jumbo Prawns Extravaganza",
+        "price": "25,000",
+        "description": "Grilled Jumbo Prawns Served With Roasted Vegetables, Side Of Choice, And Our Homemade Sauce."
+      },
+      {
+        "id": 8,
+        "name": "Lamb Shank",
+        "price": "35,000",
+        "description": "Red Currant Merry Sauce Served With Your Side Of Choice."
+      },
+      {
+        "id": 9,
+        "name": "Tomahawk Steak",
+        "price": "50,000",
+        "description": "Grilled Premium Steak Served With Steamed Vegetables And Side Of Choice."
+      }
+    ],
+    "soups": [
+      {
+        "id": 1,
+        "name": "Goat Meat Pepper Soup",
+        "price": "6,000",
+        "description": "Goat Meat Cooked With Yam Cubes."
+      },
+      {
+        "id": 2,
+        "name": "Seafood Pepper Soup",
+        "price": "8,900",
+        "description": "Selection Of Calamari, Fish & Prawns."
+      },
+      {
+        "id": 3,
+        "name": "Pain Perdu",
+        "price": "5,000",
+        "description": "Caramelized French Toast Soaked In Creme Anglaise, Drizzled With Caramel Sauce, Served With Vanilla Ice Cream."
+      },
+      {
+        "id": 4,
+        "name": "Chicken Creamy Corn Soup",
+        "price": "5,000",
+        "description": "Creamy Corn Soup With Chicken."
+      },
+      {
+        "id": 5,
+        "name": "Stick Toffee Pudding",
+        "price": "6,500",
+        "description": "Warm Cake Drizzled With Butter Scratch Sauce Served With Vanilla Ice Cream."
+      },
+      {
+        "id": 6,
+        "name": "Fruit And Custard Tart",
+        "price": "6,000",
+        "description": "Custard Tart Served With Fresh Fruits."
+      }
+    ],
+    "platters": [
+      {
+        "id": 1,
+        "name": "Redhorn Grilled Fish",
+        "price": "15,000",
+        "description": "Tasty Grilled Whole Fish Served With A Side Of Vegetables, Fried Plantain & Pepper Sauce."
+      },
+      {
+        "id": 2,
+        "name": "Sharing Platter",
+        "price": "12,000",
+        "description": "Spicy Goat Meat, Pepper Snail, Gizdodo, Served With A Side Of Plantain, Fried Yam & Cooked Corn."
+      },
+      {
+        "id": 3,
+        "name": "Redhorn Platter",
+        "price": "15,000",
+        "description": "A Special Selection Of Dishes To Share."
+      }
+    ],
+    "lean selection": [
+      {
+        "id": 1,
+        "name": "Meet the Lebanese",
+        "price": "4,000",
+        "description": "Pan Seared Chicken, Chicken Breast, Coleslaw, Hotdog, Tomatoes, Served In Tortilla Bread With Any Choice Of Sauce And Fires Side, Plantain Or Sweet Potato."
+      },
+      {
+        "id": 2,
+        "name": "Chicken And Jollof Burrito",
+        "price": "5,000",
+        "description": "Chicken, Hotdog, Con Carne, Jollof Rice With Salsa And Fried Plantain."
+      }
+    ]
+    },
+    
+        "drinks": {
+          "classic cocktails": [
+            {
+              "id": 1,
+              "name": "Long Island",
+              "price": "6,000",
+              "description": "Tequila, Vodka, Light Rum, Gin, Triple Sec, Sugar, Lime Juice & Coke."
+            },
+            {
+              "id": 2,
+              "name": "Whisky Sour",
+              "price": "6,000",
+              "description": "Bonbon Whiskey, Egg White, Lemon Juice & Simple Syrup."
+            },
+            {
+              "id": 3,
+              "name": "Old Fashion",
+              "price": "6,000",
+              "description": "Bonbon Whiskey, Angostura Bitters & Simple Syrup."
+            },
+            {
+              "id": 4,
+              "name": "Sex on the Beach",
+              "price": "6,000",
+              "description": "Peach Schnapps, Vodka, Orange Juice & Cranberry Juice."
+            },
+            {
+              "id": 5,
+              "name": "Black Russian",
+              "price": "6,000",
+              "description": "Vodka, Coffee Liqueur."
+            },
+            {
+              "id": 6,
+              "name": "Moscow Mule",
+              "price": "6,000",
+              "description": "Vodka, Lime Juice, Ginger Syrup & Ginger Beer."
+            },
+            {
+              "id": 7,
+              "name": "Cosmopolitan",
+              "price": "6,000",
+              "description": "Vodka, Lime Juice, Cointreau & Cranberry Juice."
+            },
+            {
+              "id": 8,
+              "name": "Classic Mojito",
+              "price": "6,000",
+              "description": "White Rum, Simple Syrup, Brown Sugar, Mint Leaf, Fresh Lime & Soda Water."
+            },
+            {
+              "id": 9,
+              "name": "Gin Basil",
+              "price": "6,000",
+              "description": "Basil Leaf, Gin, Cucumber Syrup & Simple Syrup."
+            },
+            {
+              "id": 10,
+              "name": "Porn Star Martini",
+              "price": "6,000",
+              "description": "Vodka, Champagne, Vanilla Syrup, Passion Fruit Puree & Pineapple Juice."
+            },
+            {
+              "id": 11,
+              "name": "Negroni",
+              "price": "6,000",
+              "description": "Gin, Campari & Sweet Vermouth."
+            },
+            {
+              "id": 12,
+              "name": "Aperol Spritz",
+              "price": "6,000",
+              "description": "Aperol, Prosecco & Soda Water."
+            }
+          ],
+          "frozen cocktails": [
+            {
+              "id": 1,
+              "name": "Strawberry Margarita",
+              "price": "6,000",
+              "description": "Strawberry Puree, Strawberry Syrup, Tequila, Cointreau, Simple Syrup & Lime Juice."
+            },
+            {
+              "id": 2,
+              "name": "Apple Margarita",
+              "price": "6,000",
+              "description": "Apple Puree, Lime Juice, Simple Syrup, Tequila & Cointreau."
+            },
+            {
+              "id": 3,
+              "name": "Strawberry Daiquiri",
+              "price": "6,000",
+              "description": "Strawberry Puree, Strawberry Syrup, Light Rum, Lime Juice & Simple Syrup."
+            },
+            {
+              "id": 4,
+              "name": "Passion Fruit Daiquiri",
+              "price": "6,000",
+              "description": "Passion Fruit Syrup, Passion Fruit Puree, Light Rum, Lime Juice & Simple Syrup."
+            },
+            {
+              "id": 5,
+              "name": "Pina Colada",
+              "price": "6,000",
+              "description": "Light Rum, Malibu, Coconut Milk & Pineapple."
+            }
+          ],
+          "signature cocktails": [
+            {
+              "id": 1,
+              "name": "Redhorn Vibes",
+              "price": "6,000",
+              "description": "Vodka, Gin, Triple Sec, Lime Juice, Simple Syrup & Mentie Syrup."
+            },
+            {
+              "id": 2,
+              "name": "Orange County",
+              "price": "6,000",
+              "description": "Gin, Triple Sec, Lime Juice, Orange Juice, Simple Syrup & Raspberry Syrup."
+            },
+            {
+              "id": 3,
+              "name": "O.A.U Student Vibes",
+              "price": "6,000",
+              "description": "Vodka, Triple Sec, Pineapple Juice, Lime Juice & Mango Puree."
+            },
+            {
+              "id": 4,
+              "name": "Take Me Home",
+              "price": "6,000",
+              "description": "Gin, Light Rum, Vodka, Tequila, Blue Curacao, Lime Juice & Simple Syrup."
+            },
+            {
+              "id": 5,
+              "name": "Teas Me Up Scotly",
+              "price": "6,000",
+              "description": "Tequila, Rum, Vodka, Banana Puree, Simple Syrup & Pineapple Juice."
+            }
+          ],
+          "shooters": [
+      {
+        "id": 1,
+        "name": "B52",
+        "price": "3,500",
+        "description": "Coffee Liquor, Cream Liquor & Orange Liquor."
+      },
+      {
+        "id": 2,
+        "name": "Blow Job",
+        "price": "4,000",
+        "description": "Cream Liquor, Coffee Liquor, Amaretto & Cream."
+      },
+      {
+        "id": 3,
+        "name": "Screaming Orgasm",
+        "price": "3,500",
+        "description": "Vodka, Blue Curacao, Triple Sec & Lime Juice."
+      },
+      {
+        "id": 4,
+        "name": "Blue Kamikaze",
+        "price": "3,500",
+        "description": "Vodka, Blue Curacao, Triple Sec & Lime Juice."
+      }
+    ],
+    "tiki cocktails": [
+      {
+        "id": 1,
+        "name": "Tequila Tiki",
+        "price": "6,000",
+        "description": "Tequila, Whiskey, Banana Puree, Orange Juice, Lime Juice, Angostura Bitters & Simple Syrup."
+      },
+      {
+        "id": 2,
+        "name": "Mai Tai",
+        "price": "6,000",
+        "description": "Light Rum, Dark Rum, Gold Rum, Triple Sec, Orgeat Syrup, Lime Juice & Mint Leaf."
+      }
+    ],
+    "mocktails": [
+      {
+        "id": 1,
+        "name": "Summer Breeze",
+        "price": "4,000",
+        "description": "Passion Fruit Syrup, Peach Syrup, Orange Juice, Pineapple Juice, Lime Juice & Grenadine Syrup."
+      },
+      {
+        "id": 2,
+        "name": "Blue Beach",
+        "price": "4,000",
+        "description": "Blue Curacao, Pina Colada Mix, Vanilla Syrup, Pineapple Juice & Lime Juice."
+      },
+      {
+        "id": 3,
+        "name": "Mint Punch",
+        "price": "4,000",
+        "description": "Orange Juice, Fanta, Sprite, Angostura Bitters & Grenadine Syrup."
+      },
+      {
+        "id": 4,
+        "name": "Virgin Mojito",
+        "price": "4,000",
+        "description": "Mint Leaf, Fresh Lime, Simple Syrup & Soda Water."
+      }
+    ],
+    "milkshakes": [
+      {
+        "id": 1,
+        "name": "Oreo Milkshake",
+        "price": "8,000",
+        "description": "Oreo Cookies, Hershey Chocolate Syrup, Liquid Milk & Ice Cream."
+      },
+      {
+        "id": 2,
+        "name": "Strawberry Milkshake",
+        "price": "6,000",
+        "description": "Strawberry Syrup, Ice Cream & Liquid Milk."
+      },
+      {
+        "id": 3,
+        "name": "Vanilla Milkshake",
+        "price": "6,000",
+        "description": "Ice Cream, Liquid Milk & Vanilla Syrup."
+      }
+    ],
+    "smoothies": [
+      {
+        "id": 1,
+        "name": "Strawberry Peach",
+        "price": "4,000",
+        "description": "Apple, Banana & Milk."
+      },
+      {
+        "id": 2,
+        "name": "Fruit Lush",
+        "price": "4,000",
+        "description": "Apple, Pineapple, Berries, Orange & Banana."
+      },
+      {
+        "id": 3,
+        "name": "Happy Man",
+        "price": "4,000",
+        "description": "Avocado, Peanut, Butter, Milk & Banana."
+      }
+    ],
+    "Freshly Squeezed Juices": [
+      { "name": "Watermelon Juice", "price": 5000 },
+      { "name": "Pineapple Juice", "price": 5000 },
+      { "name": "Apple & Cucumber Juice", "price": 5000 }
+    ],
+    "Red Wine": [
+      { "name": "Four Cousin", "price": 25000 },
+      { "name": "Carlo Rossi", "price": 25000 },
+      { "name": "M&G", "price": 20000 },
+      { "name": "4th Street", "price": 15000 }
+    ],
+    "White Wine": [
+      { "name": "Sweet Kiss", "price": 15000 }
+    ],
+    "Rossi Wine": [
+      { "name": "4th Street", "price": 15000 },
+      { "name": "Four Cousin", "price": 25000 }
+    ],
+    "Whiskey": [
+      { "name": "Royal Circle", "price": 30000 },
+      { "name": "Jameson Green", "price": 45000 },
+      { "name": "Willams Lawson", "price": 30000 }
+    ],
+    "Sparkling Wine": [
+      { "name": "Andre Rose", "price": 25000 },
+      { "name": "Chandor", "price": 12000 }
+    ],
+    "Tequila": [
+      { "name": "Sierra Tequila", "price": 25000 },
+      { "name": "Olmeca Tequila", "price": 35000 }
+    ],
+    "Gin": [
+      { "name": "Gordon’s Gin", "price": 15000 }
+    ],
+    "Vodka": [
+      { "name": "Flirt Vodka", "price": 15000 }
+    ],
+    "Rum": [
+      { "name": "Barcardi", "price": 30000 }
+    ],
+    "Cream Liquor": [
+      { "name": "Best Cream", "price": 20000 },
+      { "name": "Baileys", "price": 35000 }
+    ],
+    "Aparatices": [
+      { "name": "Campari Medium", "price": 30000 }
+    ],
+    "Beer": [
+      { "name": "Heinkein", "price": 1500 },
+      { "name": "Trophy", "price": 1500 },
+      { "name": "Smrinoff Ice", "price": 1500 },
+      { "name": "Small Stout", "price": 1500 }
+    ],
+    "Energy Drink": [
+      { "name": "Redbull", "price": 2000 },
+      { "name": "Monster", "price": 2500 },
+      { "name": "Tonic Water", "price": 2000 },
+      { "name": "Soda Water", "price": 1500 }
+    ],
+    "Soft Drink": [
+      { "name": "Water", "price": 1000 },
+      { "name": "Coke", "price": 1000 },
+      { "name": "Sprite", "price": 1000 },
+      { "name": "Fanta", "price": 1000 }
+    ],
+    "Park Juice": [
+      { "name": "Orange Juice", "price": 5000 },
+      { "name": "Exotic", "price": 5000 },
+      { "name": "Active", "price": 5000 },
+      { "name": "Pineapple", "price": 5000 },
+      { "name": "Hollandia Yogurt", "price": 5000 }
+    ],
+    "shots": [
+      {
+        "id": 1,
+        "name": "Brandy Shot",
+        "price": "6,000",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "name": "Tequila Shot",
+        "price": "3,000",
+        "description": ""
+      },
+      {
+        "id": 3,
+        "name": "Vodka Shot",
+        "price": "2,000",
+        "description": ""
+      },
+      {
+        "id": 4,
+        "name": "Whiskey Shot",
+        "price": "2,000",
+        "description": ""
+      },
+      {
+        "id": 5,
+        "name": "Gin Shot",
+        "price": "2,000",
+        "description": ""
+      },
+      {
+        "id": 6,
+        "name": "Rum Shot",
+        "price": "2,000",
+        "description": ""
+      }
+    ],
+    "wines": [
+      {
+        "id": 1,
+        "name": "Four Cousins (Red Wine)",
+        "price": "25,000",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "name": "Carlo Rossi (Red Wine)",
+        "price": "25,000",
+        "description": ""
+      }
+    ]
+        }
+      
+  }
+  
