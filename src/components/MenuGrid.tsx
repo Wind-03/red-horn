@@ -14,7 +14,7 @@ interface MenuGridProps {
 
 const MenuGrid: React.FC<MenuGridProps> = ({ items }) => {
     return (
-      <div className="grid grid-cols-1 gap-6 md:grid-cols-2 duration-500">
+      <div className="grid grid-cols-1 gap-6 md:grid-cols-3 lg:grid-cols-4 duration-500">
         {items?.map((item, index) => (
           <div
             key={index}
