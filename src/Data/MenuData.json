@@ -627,9 +627,9 @@
       { "name": "Campari Medium", "price": 30000 }
     ],
     "Beer": [
-      { "name": "Heinkein", "price": 1500 },
+      { "name": "Heinkein", "price": 2000 },
       { "name": "Trophy", "price": 1500 },
-      { "name": "Smrinoff Ice", "price": 1500 },
+      { "name": "Smrinoff Ice", "price": 2000 },
       { "name": "Small Stout", "price": 1500 }
     ],
     "Energy Drink": [
