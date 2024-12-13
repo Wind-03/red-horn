@@ -204,6 +204,20 @@
           "description": ""
         }
       ],
+      "Sides: Plant-Based Alternatives":[
+        {
+          "id": 1,
+          "name": "Rice",
+          "price": "5,000",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Pasta",
+          "price": "5,000",
+          "description": ""
+        }
+      ],
       "grills": [
       {
         "id": 1,
