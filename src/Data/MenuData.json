@@ -204,16 +204,16 @@
           "description": ""
         }
       ],
-      "Sides: Plant-Based Alternatives":[
+      "Plant-based alternatives (100% Cauliflower)":[
         {
           "id": 1,
-          "name": "Rice",
+          "name": "Cauliflower Rice",
           "price": "5,000",
           "description": ""
         },
         {
           "id": 2,
-          "name": "Pasta",
+          "name": "Cauliflower Pasta",
           "price": "5,000",
           "description": ""
         }
