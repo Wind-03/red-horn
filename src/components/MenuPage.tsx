@@ -26,7 +26,7 @@ const MenuPage = () => {
   const [activeMenu, setActiveMenu] = useState<"food" | "drinks">("food");
   const categories =
     activeMenu === "food"
-      ? ["appetizers","burgers" , "main course", "pasta", "salads", "sides", "sides:Plant-Based Alterntives", "grills", "soups", "platters", "lean selection"]
+      ? ["appetizers","burgers" , "main course", "pasta", "salads", "sides", "Sides: Plant-Based Alternatives", "grills", "soups", "platters", "lean selection"]
       : ["classic cocktails", "frozen cocktails", "signature cocktails", "shooters", "tiki cocktails", "mocktails", "milkshakes", "smoothies", "Park Juice", "Soft Drink", "Energy Drink", "Beer", "Aparatices", "Cream Liquor", "Rum", "Vodka", "Gin", "Tequila", "Sparkling Wine","Whiskey","Rossi Wine", "White Wine", "Red Wine", "Freshly Squeezed Juices" ,"shots", "wines",];
 
   return (
