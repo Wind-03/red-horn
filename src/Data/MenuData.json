@@ -227,7 +227,7 @@
       },
       {
         "id": 2,
-        "name": "Fillet Mention",
+        "name": "Fillet Mignon",
         "price": "20,000",
         "description": "Grilled Tenderloin Served On A Bed Of Mashed Potato, Fine Beans, Side Of Cauliflower, Grilled Tomato And Demi-glazed Sauce."
       },
@@ -482,7 +482,7 @@
             },
             {
               "id": 5,
-              "name": "Teas Me Up Scotly",
+              "name": "Tease Me Up Softly",
               "price": "6,000",
               "description": "Tequila, Rum, Vodka, Banana Puree, Simple Syrup & Pineapple Juice."
             }
@@ -612,39 +612,39 @@
       { "name": "Four Cousin", "price": 25000 }
     ],
     "Whiskey": [
-      { "name": "Royal Circle", "price": 30000 },
-      { "name": "Jameson Green", "price": 45000 },
-      { "name": "Willams Lawson", "price": 30000 }
+      { "name": "Royal Circle", "price": 40000 },
+      { "name": "Jameson Green", "price": 50000 },
+      { "name": "Willams Lawson", "price": 45000 }
     ],
     "Sparkling Wine": [
-      { "name": "Andre Rose", "price": 25000 },
+      { "name": "Andre Rose", "price": 30000 },
       { "name": "Chandor", "price": 12000 }
     ],
     "Tequila": [
-      { "name": "Sierra Tequila", "price": 25000 },
-      { "name": "Olmeca Tequila", "price": 35000 }
+      { "name": "Sierra Tequila", "price": 40000 },
+      { "name": "Olmeca Tequila", "price": 50000 }
     ],
     "Gin": [
-      { "name": "Gordon’s Gin", "price": 15000 }
+      { "name": "Gordon’s Gin", "price": 25000 }
     ],
     "Vodka": [
-      { "name": "Flirt Vodka", "price": 15000 }
+      { "name": "Flirt Vodka", "price": 30000 }
     ],
     "Rum": [
-      { "name": "Barcardi", "price": 30000 }
+      { "name": "Barcardi", "price": 40000 }
     ],
     "Cream Liquor": [
-      { "name": "Best Cream", "price": 20000 },
-      { "name": "Baileys", "price": 35000 }
+      { "name": "Best Cream", "price": 30000 },
+      { "name": "Baileys", "price": 45000 }
     ],
     "Aparatices": [
-      { "name": "Campari Medium", "price": 30000 }
+      { "name": "Campari Medium", "price": 35000 }
     ],
     "Beer": [
-      { "name": "Heinkein", "price": 2000 },
-      { "name": "Trophy", "price": 1500 },
-      { "name": "Smrinoff Ice", "price": 2000 },
-      { "name": "Small Stout", "price": 1500 }
+      { "name": "Heinkein", "price": 2500 },
+      { "name": "Trophy", "price": 2000 },
+      { "name": "Smrinoff Ice", "price": 2500 },
+      { "name": "Small Stout", "price": 2000 }
     ],
     "Energy Drink": [
       { "name": "Redbull", "price": 2000 },
@@ -669,37 +669,37 @@
       {
         "id": 1,
         "name": "Brandy Shot",
-        "price": "6,000",
+        "price": "8,000",
         "description": ""
       },
       {
         "id": 2,
         "name": "Tequila Shot",
-        "price": "3,000",
+        "price": "4,000",
         "description": ""
       },
       {
         "id": 3,
         "name": "Vodka Shot",
-        "price": "2,000",
+        "price": "3,000",
         "description": ""
       },
       {
         "id": 4,
         "name": "Whiskey Shot",
-        "price": "2,000",
+        "price": "3,000",
         "description": ""
       },
       {
         "id": 5,
         "name": "Gin Shot",
-        "price": "2,000",
+        "price": "3,000",
         "description": ""
       },
       {
         "id": 6,
         "name": "Rum Shot",
-        "price": "2,000",
+        "price": "3,000",
         "description": ""
       }
     ],
