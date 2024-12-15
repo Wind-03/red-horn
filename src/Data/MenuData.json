@@ -108,6 +108,32 @@
           "description": "Basmati Rice Made In Chinese Style, Accompanied With Scrambled Egg, Shrimps, And Beef On A Pineapple Fruit Bed."
         }
       ],
+      "Plant-Based alternatives (100% Cauliflower)":[
+        {
+          "id": 1,
+          "name": "Mongolian Beef",
+          "price": "14,000",
+          "description": "Tender Beef Fillet Marinated In A Mongolian Sauce Paired With Sauteed Vegetables And Fragrant Cauliflower Rice or Cauliflower Spaghetti."
+        },
+        {
+          "id": 2,
+          "name": "Chicken Stir Fry",
+          "price": "12,000",
+          "description": "Mixed Vegetables Cooked With Chicken and Served With Cauliflower Rice."
+        },
+        {
+          "id": 3,
+          "name": "Beef Stir Fry",
+          "price": "13,500",
+          "description": "Mixed Vegetables Cooked With Beef and Served With Cauliflower Rice."
+        },
+        {
+          "id": 4,
+          "name": "Special Fried Rice",
+          "price": "14,000",
+          "description": "Cauliflower Rice Made In Chinese Style, Accompanied With Scrambled Egg, Shrimps, And Beef On A Pineapple Fruit Bed."
+        }
+      ],
       "pasta": [
         {
           "id": 1,
@@ -144,6 +170,20 @@
           "name": "Chicken Pesto Pasta",
           "price": "10,000",
           "description": "Fusilli Pasta Cooked With Chicken And Pesto Sauce, Topped With Parmesan Cheese."
+        }
+      ],
+      "plant-Based alternatives (100% Cauliflower)":[
+        {
+          "id": 1,
+          "name": "Seafood Spaghetti",
+          "price": "15,000",
+          "description": "Cauliflower Spaghetti Cooked With Homemade Spicy Red Pasta Sauce, Fresh Shrimps, And Fresh Prawns."
+        },
+        {
+          "id": 2,
+          "name": "Spaghetti Bolognese",
+          "price": "10,000",
+          "description": "Nigeria Style Cauliflower Bolognese Topped With Fried Plantain."
         }
       ],
       "salads": [

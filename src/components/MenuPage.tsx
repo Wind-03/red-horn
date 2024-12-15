@@ -26,7 +26,7 @@ const MenuPage = () => {
   const [activeMenu, setActiveMenu] = useState<"food" | "drinks">("food");
   const categories =
     activeMenu === "food"
-      ? ["appetizers","burgers" , "main course", "pasta", "salads", "sides", "Plant-based alternatives (100% Cauliflower)", "grills", "soups", "platters", "lean selection"]
+      ? ["appetizers","burgers" , "main course", "Plant-Based alternatives (100% Cauliflower)",  "pasta", "plant-Based alternatives (100% Cauliflower)", "salads", "sides", "Plant-based alternatives (100% Cauliflower)", "grills", "soups", "platters", "lean selection"]
       : ["classic cocktails", "frozen cocktails", "signature cocktails", "shooters", "tiki cocktails", "mocktails", "milkshakes", "smoothies", "Park Juice", "Soft Drink", "Energy Drink", "Beer", "Aparatices", "Cream Liquor", "Rum", "Vodka", "Gin", "Tequila", "Sparkling Wine","Whiskey","Rossi Wine", "White Wine", "Red Wine", "Freshly Squeezed Juices" ,"shots", "wines",];
 
   return (
@@ -58,7 +58,7 @@ const MenuPage = () => {
         {categories.map((category) => (
           <div key={category} className="mt-24 ">
             {/* Category Title */}
-            <h2 className={`text-xl font-bold capitalize mb-10 ${category === "Plant-based alternatives (100% Cauliflower)" ? "-mt-16 mb-4 text-[#893340] bg-none" : "bg-[#2d1b1b] text-white"} text-center rounded-md mx-auto px-3 py-2  w-fit duration-500`}>
+            <h2 className={`text-xl font-bold capitalize mb-10 ${category === "Plant-based alternatives (100% Cauliflower)" || category === "Plant-Based alternatives (100% Cauliflower)" || category === "plant-Based alternatives (100% Cauliflower)" ? "-mt-16 mb-4 text-[#893340] bg-none" : "bg-[#2d1b1b] text-white"} text-center rounded-md mx-auto px-3 py-2  w-fit duration-500`}>
               {category.replace(/([A-Z])/g, " $1").toLowerCase()}
             </h2>
 
