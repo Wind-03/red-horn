@@ -5,7 +5,7 @@
           "id": 1,
           "name": "Chicken Wings",
           "price": "6,000",
-          "description": "Served With Rodu Pepper dip, Redhorn Sauce or BBQ Sauce."
+          "description": "Served With Rodo Pepper dip, Redhorn Sauce or BBQ Sauce."
         },
         {
           "id": 2,
@@ -614,7 +614,11 @@
     "Whiskey": [
       { "name": "Royal Circle", "price": 40000 },
       { "name": "Jameson Green", "price": 50000 },
-      { "name": "Willams Lawson", "price": 45000 }
+      { "name": "Willams Lawson", "price": 45000 },
+      { "name": "Jameson Black Barrel", "price": 75000 }
+    ],
+    "Brandy":[
+      {"name": "Martell VS", "price": 85000}
     ],
     "Sparkling Wine": [
       { "name": "Andre Rose", "price": 30000 },
@@ -650,6 +654,7 @@
       { "name": "Redbull", "price": 2000 },
       { "name": "Monster", "price": 2500 },
       { "name": "Tonic Water", "price": 2000 },
+      { "name": "Black Bullet", "price": 4500 },
       { "name": "Soda Water", "price": 1500 }
     ],
     "Soft Drink": [
