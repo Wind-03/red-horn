@@ -288,28 +288,10 @@
         "description": "Selection Of Calamari, Fish & Prawns."
       },
       {
-        "id": 3,
-        "name": "Pain Perdu",
-        "price": "5,000",
-        "description": "Caramelized French Toast Soaked In Creme Anglaise, Drizzled With Caramel Sauce, Served With Vanilla Ice Cream."
-      },
-      {
         "id": 4,
         "name": "Chicken Creamy Corn Soup",
         "price": "5,000",
         "description": "Creamy Corn Soup With Chicken."
-      },
-      {
-        "id": 5,
-        "name": "Stick Toffee Pudding",
-        "price": "6,500",
-        "description": "Warm Cake Drizzled With Butter Scratch Sauce Served With Vanilla Ice Cream."
-      },
-      {
-        "id": 6,
-        "name": "Fruit And Custard Tart",
-        "price": "6,000",
-        "description": "Custard Tart Served With Fresh Fruits."
       }
     ],
     "platters": [
@@ -344,6 +326,26 @@
         "name": "Chicken And Jollof Burrito",
         "price": "5,000",
         "description": "Chicken, Hotdog, Con Carne, Jollof Rice With Salsa And Fried Plantain."
+      }
+    ],
+    "desserts": [
+      {
+        "id": 1,
+        "name": "Stick Toffee Pudding",
+        "price": "6,500",
+        "description": "Warm Cake Drizzled With Butter Scratch Sauce Served With Vanilla Ice Cream."
+      },
+      {
+        "id": 2,
+        "name": "Fruit And Custard Tart",
+        "price": "6,000",
+        "description": "Custard Tart Served With Fresh Fruits."
+      },
+      {
+        "id": 3,
+        "name": "Pain Perdu",
+        "price": "5,000",
+        "description": "Caramelized French Toast Soaked In Creme Anglaise, Drizzled With Caramel Sauce, Served With Vanilla Ice Cream."
       }
     ]
     },
