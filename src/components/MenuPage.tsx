@@ -23,16 +23,17 @@ import menuData from "../Data/MenuData.json";
 
 
 const MenuPage = () => {
-  const [activeMenu, setActiveMenu] = useState<"food" | "drinks">("food");
+  const [activeMenu, setActiveMenu] = useState<"food" | "drinks" | "house deals">("food");
   const categories =
     activeMenu === "food"
       ? ["appetizers","burgers" , "main course", "pasta", "salads", "sides", "Plant-based alternatives (100% Cauliflower)", "grills", "soups", "platters", "lean selection", "desserts"]
+      : activeMenu === "house deals" ? ["unlimited cocktail deals"]
       : ["classic cocktails", "frozen cocktails", "signature cocktails", "shooters", "tiki cocktails", "mocktails", "milkshakes", "smoothies", "Park Juice", "Soft Drink", "Energy Drink", "Beer", "Aparatices", "Cream Liquor", "Rum", "Vodka", "Gin", "Tequila", "Sparkling Wine","Whiskey","Brandy", "Rossi Wine", "White Wine", "Red Wine", "Freshly Squeezed Juices" ,"shots", "wines",];
 
   return (
     <div className="p-6 max-w-screen-2xl mx-auto relative mb-12">
       {/* Menu Buttons */}
-      <div className="flex justify-center mb-4 space-x-4 sticky top-10 z-10 mx-auto  bg-slate-50 w-fit p-3 shadow-lg rounded-md">
+      <div className="flex justify-center mb-4 space-x-4 sticky top-10 z-10 mx-auto  bg-slate-50 w-fit p-3 shadow-lg rounded-md flex-wrap">
         <button
           onClick={() => setActiveMenu("food")}
           className={`px-4 py-2 rounded-lg font-semibold  ${
@@ -52,6 +53,16 @@ const MenuPage = () => {
           }`}
         >
           Drinks Menu
+        </button>
+        <button
+          onClick={() => setActiveMenu("house deals")}
+          className={`px-4 py-2 rounded-lg font-semibold ${
+            activeMenu === "house deals"
+              ? "bg-[#893340] text-white duration-500"
+              : ""
+          }`}
+        >
+          House Deals
         </button>
       </div>
       <div>

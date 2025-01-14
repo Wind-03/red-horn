@@ -601,16 +601,17 @@
       { "name": "Apple & Cucumber Juice", "price": 5000 }
     ],
     "Red Wine": [
-      { "name": "Four Cousin", "price": 25000 },
-      { "name": "Carlo Rossi", "price": 25000 },
+      { "name": "Four Cousin", "price": 30000 },
+      { "name": "Carlo Rossi", "price": 30000 },
       { "name": "M&G", "price": 20000 },
-      { "name": "4th Street", "price": 15000 }
+      { "name": "4th Street", "price": 22000 },
+      { "name": "Sweet Kiss", "price": 30000 }
     ],
     "White Wine": [
-      { "name": "Sweet Kiss", "price": 15000 }
+      { "name": "Sweet Kiss", "price": 30000 }
     ],
     "Rossi Wine": [
-      { "name": "4th Street", "price": 15000 },
+      { "name": "4th Street", "price": 22000 },
       { "name": "Four Cousin", "price": 25000 }
     ],
     "Whiskey": [
@@ -621,11 +622,12 @@
       { "name": "Jameson Black Barrel", "price": 75000 }
     ],
     "Brandy":[
-      {"name": "Martell VS", "price": 85000}
+      {"name": "Martell VS", "price": 85000},
+      {"name": "Hennessy VS", "price": 110000}
     ],
     "Sparkling Wine": [
       { "name": "Andre Rose", "price": 30000 },
-      { "name": "Chandor", "price": 12000 }
+      { "name": "Chamdor", "price": 20000 }
     ],
     "Tequila": [
       { "name": "Sierra Tequila", "price": 40000 },
@@ -643,7 +645,7 @@
     ],
     "Cream Liquor": [
       { "name": "Best Cream", "price": 30000 },
-      { "name": "Baileys", "price": 45000 }
+      { "name": "Baileys", "price": 50000 }
     ],
     "Aparatices": [
       { "name": "Campari Medium", "price": 35000 }
@@ -659,7 +661,8 @@
       { "name": "Monster", "price": 2500 },
       { "name": "Tonic Water", "price": 2000 },
       { "name": "Black Bullet", "price": 4500 },
-      { "name": "Soda Water", "price": 1500 }
+      { "name": "Soda Water", "price": 1500 },
+      { "name": "Power Horse", "price": 3500 }
     ],
     "Soft Drink": [
       { "name": "Water", "price": 1000 },
@@ -725,8 +728,20 @@
         "price": "25,000",
         "description": ""
       }
+    ],
+    "shisha":[
+      { "name": "Double Pipe", "price": 10000 },
+      { "name": "Single Pipe", "price": 7000 },
+      { "name": "Extra Coal", "price": 3000 }
     ]
-        }
+        },
+      "house deals":{
+        "unlimited cocktail deals" :[
+          { "name": "Five Cocktail Combo", 
+          "description": "Long Island, Take me home, Nigroni, Old Fashioned, Black Russian",
+          "price": 20000 }
+        ]
+      }
       
   }
   
