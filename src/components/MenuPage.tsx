@@ -33,7 +33,7 @@ const MenuPage = () => {
   return (
     <div className="p-6 max-w-screen-2xl mx-auto relative mb-12">
       {/* Menu Buttons */}
-      <div className="flex justify-center mb-4 space-x-4 sticky top-10 z-10 mx-auto  bg-slate-50 w-fit p-3 shadow-lg rounded-md flex-wrap">
+      <div className="flex justify-center mb-4 space-x-4 sticky top-10 z-[1] mx-auto  bg-slate-50 w-fit p-3 shadow-lg rounded-md flex-wrap">
         <button
           onClick={() => setActiveMenu("food")}
           className={`px-4 py-2 rounded-lg font-semibold  ${
