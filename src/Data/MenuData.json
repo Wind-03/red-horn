@@ -310,20 +310,20 @@
       {
         "id": 2,
         "name": "Sharing Platter",
-        "price": "17,000",
+        "price": "20,000",
         "description": "Spicy Goat Meat, Pepper Snail, Gizdodo, Served With A Side Of Plantain, Fried Yam & Cooked Corn."
       },
       {
         "id": 3,
         "name": "Redhorn Platter",
-        "price": "15,000",
+        "price": "20,000",
         "description": "A Special Selection Of Dishes To Share."
       }
     ],
     "lean selection": [
       {
         "id": 1,
-        "name": "Meet the Lebanese",
+        "name": "Street Shawarma(Meet the Lebao)",
         "price": "5,000",
         "description": "Pan Seared Chicken, Chicken Breast, Coleslaw, Hotdog, Tomatoes, Served In Tortilla Bread With Any Choice Of Sauce And Fires Side, Plantain Or Sweet Potato."
       },
