@@ -4,13 +4,13 @@
         {
           "id": 1,
           "name": "Chicken Wings",
-          "price": "6,000",
+          "price": "8,000",
           "description": "Served With Rodo Pepper dip, Redhorn Sauce or BBQ Sauce."
         },
         {
           "id": 2,
           "name": "Meatballs in Marinara Sauce",
-          "price": "6,000",
+          "price": "8,000",
           "description": "Juicy Meatballs Simmered In A Rich Tomatoes Marinara Sauce, Served With Garlic Butter Toast."
         },
         {
@@ -22,25 +22,25 @@
         {
           "id": 4,
           "name": "Crispy Calamari",
-          "price": "10,000",
+          "price": "12,000",
           "description": "Crispy Fried Calamari Wedge And Special Tartar Sauce."
         },
         {
           "id": 5,
           "name": "Tempura Beer Prawns",
-          "price": "10,000",
+          "price": "12,000",
           "description": "Fried Prawns Served With Lemon Wedge And Tartar Sauce."
         },
         {
           "id": 6,
           "name": "Dynamite Shrimps",
-          "price": "10,000",
+          "price": "12,000",
           "description": "Red Cabbage, Shrimps, and Dynamite Sauce."
         },
         {
           "id": 7,
           "name": "Ram Roll",
-          "price": "7,000",
+          "price": "9,000",
           "description": "Medium Spicy Shredded Ram Meat Roll In Freshly Made Pastry And Flower Balls."
         }
       ],
@@ -48,19 +48,19 @@
         {
           "id": 1,
           "name": "Classic Burger",
-          "price": "9,000",
+          "price": "10,000",
           "description": "Homemade Beef Patty Layered With Redhorn Sauce, Lettuce, Tomatoes, Onions And Pickle's, Topped With Cheese And Bacon, Served With French Fries."
         },
         {
           "id": 2,
           "name": "Max Burger",
-          "price": "10,500",
+          "price": "12,500",
           "description": "Homemade Double Patty Layered With Redhorn Sauce, Lettuce, Jalapeno, And Tomatoes Topped With Cheese And Potato Sticks, Served With French Fries."
         },
         {
           "id": 3,
           "name": "Redhorn BBQ Burger",
-          "price": "9,000",
+          "price": "11,000",
           "description": "Grilled Chicken Dipped With BBQ Sauce Layered With Mayo Sauce, Lettuce, Tomatoes And Pickles, Topped With Cheese, Served With French Fries."
         },
         {
@@ -80,31 +80,31 @@
         {
           "id": 1,
           "name": "Mongolian Beef",
-          "price": "14,000",
+          "price": "16,000",
           "description": "Tender Beef Fillet Marinated In A Mongolian Sauce Paired With Sauteed Vegetables And Fragrant Thai Rice/ Singapore Noodles/ Cauliflower Rice /Cauliflower Spaghetti."
         },
         {
           "id": 2,
           "name": "Half Roast Chicken",
-          "price": "12,000",
+          "price": "13,000",
           "description": "Marinated Half Roast Served With A Side Of Your Choice And Homemade Sauce."
         },
         {
           "id": 3,
           "name": "Chicken Stir Fry",
-          "price": "12,000",
+          "price": "13,000",
           "description": "Mixed Vegetables Cooked With Chicken and Served With Steamed Rice/ Cauliflower Rice."
         },
         {
           "id": 4,
           "name": "Beef Stir Fry",
-          "price": "13,500",
+          "price": "15,000",
           "description": "Mixed Vegetables Cooked With Beef and Served With Steamed Rice/ Cauliflower Rice."
         },
         {
           "id": 5,
           "name": "Special Fried Rice",
-          "price": "14,000",
+          "price": "16,000",
           "description": "Basmati or Cauliflower Rice Made In Chinese Style, Accompanied With Scrambled Egg, Shrimps, And Beef On A Pineapple Fruit Bed."
         }
       ],
@@ -112,37 +112,37 @@
         {
           "id": 1,
           "name": "Penne Arrabiata",
-          "price": "10,000",
+          "price": "12,000",
           "description": "Penne Pasta Tossed In A Zesty Tomato Arrabiata Sauce Topped With Parmesan Cheese And Fresh Basil."
         },
         {
           "id": 2,
           "name": "Creamy Pasta",
-          "price": "13,000",
+          "price": "14,000",
           "description": "Penne Pasta Cooked With Creamy Sauce Topped With Crispy Bacon (Choice Of Chicken Or Beef)."
         },
         {
           "id": 3,
           "name": "Seafood Spaghetti",
-          "price": "15,000",
+          "price": "18,000",
           "description": "Spaghetti or Cauliflower Spaghetti Cooked With Homemade Spicy Red Pasta Sauce, Fresh Shrimps, And Fresh Prawns."
         },
         {
           "id": 4,
           "name": "Spaghetti Bolognese",
-          "price": "10,000",
+          "price": "12,000",
           "description": "Nigeria Style Bolognese or Cauliflower Spaghetti Bolognese Topped With Fried Plantain."
         },
         {
           "id": 5,
           "name": "Seafood Pasta",
-          "price": "16,000",
+          "price": "18,000",
           "description": "Penne Pasta Cooked With Homemade Spicy Red Pasta Sauce, Fresh Shrimps, Fresh Fish, Topped With Crispy Calamari."
         },
         {
           "id": 6,
           "name": "Chicken Pesto Pasta",
-          "price": "10,000",
+          "price": "12,000",
           "description": "Fusilli Pasta Cooked With Chicken And Pesto Sauce, Topped With Parmesan Cheese."
         }
       ],
@@ -150,19 +150,19 @@
         {
           "id": 1,
           "name": "Chicken Caesar Salad",
-          "price": "9,000",
+          "price": "10,000",
           "description": "Grilled Chicken Breast, Crunchy Croutons, Cherry Tomatoes, Perfectly Dressed With Zesty Homemade Caesar Sauce."
         },
         {
           "id": 2,
           "name": "Pasta Salad",
-          "price": "7,000",
+          "price": "8,000",
           "description": "Pasta Mixed With Irish Potato And Varieties Of Vegetables Paired With Creamy Mayo Dressing."
         },
         {
           "id": 3,
           "name": "Cobb Salad",
-          "price": "11,000",
+          "price": "13,000",
           "description": "Mixed Greens Topped With Grilled Chicken, Avocado, Tomatoes, Sweet Corn, Groundnut, And Boiled Egg, Served With Honey Mustard Dressing."
         }
       ],
@@ -170,37 +170,43 @@
         {
           "id": 1,
           "name": "French Fries",
-          "price": "4,000",
+          "price": "5,000",
           "description": ""
         },
         {
           "id": 2,
           "name": "Yam Fries",
-          "price": "4,000",
+          "price": "5,000",
           "description": ""
         },
         {
           "id": 3,
           "name": "Fried Plantain",
-          "price": "4,000",
+          "price": "5,000",
           "description": ""
         },
         {
           "id": 4,
           "name": "Steamed Rice",
-          "price": "4,000",
+          "price": "5,000",
           "description": ""
         },
         {
           "id": 5,
           "name": "Mashed Potatoes",
-          "price": "5,000",
+          "price": "7,000",
           "description": ""
         },
         {
           "id": 6,
           "name": "Jollof Rice",
-          "price": "5,000",
+          "price": "8,000",
+          "description": ""
+        },
+        {
+          "id": 7,
+          "name": "Thia Rice",
+          "price": "8,000",
           "description": ""
         }
       ],
@@ -222,7 +228,7 @@
       {
         "id": 1,
         "name": "Grilled Chicken Lap",
-        "price": "12,000",
+        "price": "14,000",
         "description": "Roasted Chicken Lap With Homemade Creamy Spices Sauce And Sauteed Vegetables Served With Side Of Choice."
       },
       {
@@ -234,43 +240,43 @@
       {
         "id": 3,
         "name": "Ribeye Steak",
-        "price": "22,000",
+        "price": "30,000",
         "description": "Grilled Premium Steak Served With Side Of Choice."
       },
       {
         "id": 4,
         "name": "Lamb Chops-Luxe",
-        "price": "22,000",
+        "price": "25,000",
         "description": "Grilled Lamb Chops, Mixed Vegetables Served With Side Of Choice."
       },
       {
         "id": 5,
         "name": "T-Bone Steak",
-        "price": "25,000",
+        "price": "30,000",
         "description": "Premium Steak Served With Steamed Vegetables And Side Of Choice."
       },
       {
         "id": 6,
         "name": "Red Snapper Fillet Elegance",
-        "price": "25,000",
+        "price": "30,000",
         "description": "Grilled Snapper Fish Fillet Served On A Creamy Mashed Potato, Steamed Vegetables And A Luscious Creamy Sauce."
       },
       {
         "id": 7,
         "name": "Jumbo Prawns Extravaganza",
-        "price": "25,000",
+        "price": "30,000",
         "description": "Grilled Jumbo Prawns Served With Roasted Vegetables, Side Of Choice, And Our Homemade Sauce."
       },
       {
         "id": 8,
         "name": "Lamb Shank",
-        "price": "35,000",
+        "price": "40,000",
         "description": "Red Currant Merry Sauce Served With Your Side Of Choice."
       },
       {
         "id": 9,
         "name": "Tomahawk Steak",
-        "price": "50,000",
+        "price": "55,000",
         "description": "Grilled Premium Steak Served With Steamed Vegetables And Side Of Choice."
       }
     ],
@@ -278,19 +284,19 @@
       {
         "id": 1,
         "name": "Goat Meat Pepper Soup",
-        "price": "6,000",
+        "price": "8,000",
         "description": "Goat Meat Cooked With Yam Cubes."
       },
       {
         "id": 2,
         "name": "Seafood Pepper Soup",
-        "price": "8,900",
+        "price": "12,000",
         "description": "Selection Of Calamari, Fish & Prawns."
       },
       {
         "id": 4,
         "name": "Chicken Creamy Corn Soup",
-        "price": "5,000",
+        "price": "8,000",
         "description": "Creamy Corn Soup With Chicken."
       }
     ],
@@ -298,13 +304,13 @@
       {
         "id": 1,
         "name": "Redhorn Grilled Fish",
-        "price": "15,000",
+        "price": "25,000",
         "description": "Tasty Grilled Whole Fish Served With A Side Of Vegetables, Fried Plantain & Pepper Sauce."
       },
       {
         "id": 2,
         "name": "Sharing Platter",
-        "price": "12,000",
+        "price": "17,000",
         "description": "Spicy Goat Meat, Pepper Snail, Gizdodo, Served With A Side Of Plantain, Fried Yam & Cooked Corn."
       },
       {
@@ -318,7 +324,7 @@
       {
         "id": 1,
         "name": "Meet the Lebanese",
-        "price": "4,000",
+        "price": "5,000",
         "description": "Pan Seared Chicken, Chicken Breast, Coleslaw, Hotdog, Tomatoes, Served In Tortilla Bread With Any Choice Of Sauce And Fires Side, Plantain Or Sweet Potato."
       },
       {
@@ -328,24 +334,24 @@
         "description": "Chicken, Hotdog, Con Carne, Jollof Rice With Salsa And Fried Plantain."
       }
     ],
-    "desserts": [
+    "cake(slice)": [
       {
         "id": 1,
-        "name": "Stick Toffee Pudding",
-        "price": "6,500",
-        "description": "Warm Cake Drizzled With Butter Scratch Sauce Served With Vanilla Ice Cream."
+        "name": "Red Velvet Cheese Cake",
+        "price": "8,000",
+        "description": "Slice of Red Velvet Layered with Cheese Cream and Biscoff topped with Strawberry And Syrup"
       },
       {
         "id": 2,
-        "name": "Fruit And Custard Tart",
+        "name": "Creamy Petite",
         "price": "6,000",
-        "description": "Custard Tart Served With Fresh Fruits."
+        "description": "Slice of Spongy Vanilla layered with lemon curd and topped with caramel and a slice of lemon."
       },
       {
         "id": 3,
-        "name": "Pain Perdu",
-        "price": "5,000",
-        "description": "Caramelized French Toast Soaked In Creme Anglaise, Drizzled With Caramel Sauce, Served With Vanilla Ice Cream."
+        "name": "Chocolate Cake",
+        "price": "6,000",
+        "description": "Layered of Chocolate cake filled with chocolate cream, topped with chocolate sauce and shavings."
       }
     ]
     },

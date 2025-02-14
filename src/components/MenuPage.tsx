@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { useState } from "react";
 import MenuGrid from "./MenuGrid"; // Grid component for displaying items
 // import menuData from "../Data/MenuData.json"; // Your menu data
@@ -21,14 +21,58 @@ import MenuGrid from "./MenuGrid"; // Grid component for displaying items
 
 import menuData from "../Data/MenuData.json";
 
-
 const MenuPage = () => {
-  const [activeMenu, setActiveMenu] = useState<"food" | "drinks" | "house deals">("food");
+  const [activeMenu, setActiveMenu] = useState<
+    "food" | "drinks" | "house deals"
+  >("food");
   const categories =
     activeMenu === "food"
-      ? ["appetizers","burgers" , "main course", "pasta", "salads", "sides", "Plant-based alternatives (100% Cauliflower)", "grills", "soups", "platters", "lean selection", "desserts"]
-      : activeMenu === "house deals" ? ["unlimited cocktail deals"]
-      : ["classic cocktails", "frozen cocktails", "signature cocktails", "shooters", "tiki cocktails", "mocktails", "milkshakes", "smoothies", "Park Juice", "Soft Drink", "Energy Drink", "Beer", "Aparatices", "Cream Liquor", "Rum", "Vodka", "Gin", "Tequila", "Sparkling Wine","Whiskey","Brandy", "Rossi Wine", "White Wine", "Red Wine", "Freshly Squeezed Juices" ,"shots", "wines",];
+      ? [
+          "appetizers",
+          "burgers",
+          "main course",
+          "pasta",
+          "salads",
+          "sides",
+          "Plant-based alternatives (100% Cauliflower)",
+          "grills",
+          "soups",
+          "platters",
+          "lean selection",
+          "desserts",
+          "cake(slice)",
+        ]
+      : activeMenu === "house deals"
+      ? ["unlimited cocktail deals"]
+      : [
+          "classic cocktails",
+          "frozen cocktails",
+          "signature cocktails",
+          "shooters",
+          "tiki cocktails",
+          "mocktails",
+          "milkshakes",
+          "smoothies",
+          "Park Juice",
+          "Soft Drink",
+          "Energy Drink",
+          "Beer",
+          "Aparatices",
+          "Cream Liquor",
+          "Rum",
+          "Vodka",
+          "Gin",
+          "Tequila",
+          "Sparkling Wine",
+          "Whiskey",
+          "Brandy",
+          "Rossi Wine",
+          "White Wine",
+          "Red Wine",
+          "Freshly Squeezed Juices",
+          "shots",
+          "wines",
+        ];
 
   return (
     <div className="p-6 max-w-screen-2xl mx-auto relative mb-12">
@@ -37,9 +81,7 @@ const MenuPage = () => {
         <button
           onClick={() => setActiveMenu("food")}
           className={`px-4 py-2 rounded-lg font-semibold  ${
-            activeMenu === "food"
-              ? "bg-[#893340] text-white duration-500"
-              : ""
+            activeMenu === "food" ? "bg-[#893340] text-white duration-500" : ""
           }`}
         >
           Food Menu
@@ -69,13 +111,23 @@ const MenuPage = () => {
         {categories.map((category) => (
           <div key={category} className="mt-24 ">
             {/* Category Title */}
-            <h2 className={`text-xl font-bold capitalize mb-10 ${category === "Plant-based alternatives (100% Cauliflower)" ? "-mt-16 mb-4 text-[#893340] bg-none" : "bg-[#2d1b1b] text-white"} text-center rounded-md mx-auto px-3 py-2  w-fit duration-500`}>
+            <h2
+              className={`text-xl font-bold capitalize mb-10 ${
+                category === "Plant-based alternatives (100% Cauliflower)"
+                  ? "-mt-16 mb-4 text-[#893340] bg-none"
+                  : "bg-[#2d1b1b] text-white"
+              } text-center rounded-md mx-auto px-3 py-2  w-fit duration-500`}
+            >
               {category.replace(/([A-Z])/g, " $1").toLowerCase()}
             </h2>
 
             {/* Menu Grid for Category Items */}
             <MenuGrid
-              items={menuData[activeMenu][category as keyof typeof menuData[typeof activeMenu]]}
+              items={
+                menuData[activeMenu][
+                  category as keyof (typeof menuData)[typeof activeMenu]
+                ]
+              }
             />
           </div>
         ))}
