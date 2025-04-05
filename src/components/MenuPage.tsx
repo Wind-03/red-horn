@@ -27,52 +27,44 @@ const MenuPage = () => {
   >("food");
   const categories =
     activeMenu === "food"
-      ? [
-          "appetizers",
-          "burgers",
-          "main course",
-          "pasta",
-          "salads",
-          "sides",
-          "Plant-based alternatives (100% Cauliflower)",
-          "grills",
-          "soups",
-          "platters",
-          "lean selection",
-          "desserts",
-          "cake(slice)",
-        ]
+      ?[
+        "starter",
+        "main courses",
+        "rice special",
+        "burger special",
+        "chicken special",
+        "soups",
+        "grills",
+        "salads",
+        "sides",
+        "desert"
+      ]
       : activeMenu === "house deals"
       ? ["unlimited cocktail deals"]
       : [
-          "classic cocktails",
-          "frozen cocktails",
-          "signature cocktails",
-          "shooters",
-          "tiki cocktails",
-          "mocktails",
-          "milkshakes",
-          "smoothies",
-          "Park Juice",
-          "Soft Drink",
-          "Energy Drink",
-          "Beer",
-          "Aparatices",
-          "Cream Liquor",
-          "Rum",
-          "Vodka",
-          "Gin",
-          "Tequila",
-          "Sparkling Wine",
-          "Whiskey",
-          "Brandy",
-          "Rossi Wine",
-          "White Wine",
-          "Red Wine",
-          "Freshly Squeezed Juices",
-          "shots",
-          "wines",
-        ];
+        "wine",
+        "non alcoholic wine",
+        "beer",
+        "energy drinks",
+        "soft",
+        "brandy",
+        "whiskey",
+        "tequila",
+        "gin",
+        "vodka",
+        "rum",
+        "champagne",
+        "cream liquor",
+        "aperatives",
+        "classic cocktail",
+        "tiki cocktail",
+        "signature cocktails",
+        "champagne cocktail",
+        "mocktail",
+        "shooters",
+        "milkshake",
+        "smoothie"
+      ];
 
   return (
     <div className="p-6 max-w-screen-2xl mx-auto relative mb-12">
