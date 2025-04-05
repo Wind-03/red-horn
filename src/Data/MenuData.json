@@ -48,8 +48,8 @@
         "price": "8,000",
         "description": "Rigatoni pasta stir fry in a tomatoe sauce and veggies.   ",
         "options": [
-          "With chicken - #10,000",
-          "With prawns - #14,000"
+          "With Chicken - ₦ 10,000",
+          "With Prawns - ₦ 14,000"
         ]
       },
       {
@@ -57,8 +57,8 @@
         "price": "8000",
         "description": "Fettuccine pasta adorned with tender mushroom & a creamy alfredo sauce.",
         "options": [
-          "With chicken - #8000",
-          "With prawn - #14,000"
+          "With chicken - ₦ 8,000",
+          "With Prawns - ₦ 14,000"
         ]
       },
       {
@@ -71,8 +71,8 @@
         "price": "10,000",
         "description": "Pasta lasagne in béchamel and a rich marinated meat sauce topped with a blanket of Parmesan cheese .",
         "options": [
-          "With chicken - #8,000",
-          "With - #14,000"
+          "With Chicken: ₦ 8,000",
+          "With Prawns: ₦ 14,000"
         ]
       }
     ],
@@ -92,9 +92,9 @@
         "price": "8,000",
         "description": "Rice sauté with veggies drizzled with olive oil and Cajun spices.",
         "options": [
-          "With Chicken -#8000",
-          "With Prawns -#14,00",
-          "With Turkey -#12,000"
+          "With Chicken: ₦ 8,000",
+          "With Prawns: ₦ 14,000",
+          "With Turkey: ₦ 12,000"
         ]
       },
       {

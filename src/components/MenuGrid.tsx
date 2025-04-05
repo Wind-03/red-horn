@@ -29,7 +29,7 @@ const MenuGrid: React.FC<MenuGridProps> = ({ items }) => {
               {`₦ ${item.price}`}
             </span>
             {item.options && (
-              <div className="text-[#893340] font-bold text-sm mt-2 block font-sk">
+              <div className="text-[#893340] font-bold text-[13px] lg:text-sm mt-2 block font-sk">
                 {item.options.map((option, i) => (
                   <div key={i} className="text-wrap">
                     {option} {/* Each option displayed on a new line */}
