@@ -327,10 +327,10 @@
           { "name": "Smokey oak", "price": "8,000", "description": "(Vodka, Rum, Blue Curacao, lime juice,\nTriple sec)" }
         ],
         "champagne cocktail": [
-          { "name": "Mimosa", "price": "8,000", "description": "( Champagne, orange juice)" },
-          { "name": "Peach bellini", "price": "8,000", "description": "( Champagne, peach syrup)" },
-          { "name": "Kiwi bellini", "price": "8,000", "description": "( Champagne, kiwi syrup)" },
-          { "name": "French 75", "price": "8,000", "description": "(Champagne, lemon juice, simple syrup,Gin)" }
+          { "name": "Mimosa", "price": "10,000", "description": "( Champagne, orange juice)" },
+          { "name": "Peach bellini", "price": "10,000", "description": "( Champagne, peach syrup)" },
+          { "name": "Kiwi bellini", "price": "10,000", "description": "( Champagne, kiwi syrup)" },
+          { "name": "French 75", "price": "10,000", "description": "(Champagne, lemon juice, simple syrup,Gin)" }
         ],
         "mocktail": [
           { "name": "Sunset boulevard", "price": "5,000", "description": "( Apple juice, sprite, Grenadine)" },
