@@ -245,11 +245,11 @@
           { "name": "Black Bullet", "price": "5,000" }
         ],
         "soft": [
-          { "name": "Orange juice", "price": "6,000" },
-          { "name": "Pineapple juice", "price": "6,000" },
-          { "name": "Apple juice", "price": "6,000" },
-          { "name": "Exotic", "price": "6,000" },
-          { "name": "Active", "price": "6,000" },
+          { "name": "Orange juice", "price": "5,000" },
+          { "name": "Pineapple juice", "price": "5,000" },
+          { "name": "Apple juice", "price": "5,000" },
+          { "name": "Exotic", "price": "5,000" },
+          { "name": "Active", "price": "5,000" },
           { "name": "Coke", "price": "2,000" },
           { "name": "Fanta", "price": "2,000" },
           { "name": "Sprite", "price": "2,000" },
@@ -299,45 +299,45 @@
           { "name": "Jagamester", "price": "40,000" }
         ],
         "classic cocktail": [
-          { "name": "Lynchburg Lemonade", "price": "10,000", "description": "( Jack Daniels, Triple sec, Lemon juice,\nsimple syrup, Soda water." },
-          { "name": "Rusty Nail", "price": "10,000", "description": "(Scotch whiskey, Drambuie)" },
-          { "name": "Tom Collins", "price": "10,000", "description": "( Gin, Lemon juice, simple syrup, soda\nwater)" },
-          { "name": "Woo-woo", "price": "10,000", "description": "(Vodka, peach liquor, Cranberry)" },
-          { "name": "Tequila Sunrise", "price": "10,000", "description": "(Tequila, orange juice, Grenadine)" },
-          { "name": "Long Island", "price": "10,000", "description": "( Gin, Tequila, Vodka, Rum, Triple sec,\nCoke lime juice)" },
-          { "name": "Side Car", "price": "10,000", "description": "( Cognac, Triple sec, Lemon juice, Simple\nsyrup)" },
-          { "name": "Dark & Stormy", "price": "10,000", "description": "(Dark rum, lime juice, Ginger Bear)" },
-          { "name": "Screaming Orgasms", "price": "10,000", "description": "( Amaretto, Vodka, Coffee liquor, Cream\nliquor, Milk" },
-          { "name": "Americano", "price": "10,000", "description": "( Campari, Sweet vermouth, Soda water )" }
+          { "name": "Lynchburg Lemonade", "price": "8,000", "description": "( Jack Daniels, Triple sec, Lemon juice,\nsimple syrup, Soda water." },
+          { "name": "Rusty Nail", "price": "8,000", "description": "(Scotch whiskey, Drambuie)" },
+          { "name": "Tom Collins", "price": "8,000", "description": "( Gin, Lemon juice, simple syrup, soda\nwater)" },
+          { "name": "Woo-woo", "price": "8,000", "description": "(Vodka, peach liquor, Cranberry)" },
+          { "name": "Tequila Sunrise", "price": "8,000", "description": "(Tequila, orange juice, Grenadine)" },
+          { "name": "Long Island", "price": "8,000", "description": "( Gin, Tequila, Vodka, Rum, Triple sec,\nCoke lime juice)" },
+          { "name": "Side Car", "price": "8,000", "description": "( Cognac, Triple sec, Lemon juice, Simple\nsyrup)" },
+          { "name": "Dark & Stormy", "price": "8,000", "description": "(Dark rum, lime juice, Ginger Bear)" },
+          { "name": "Screaming Orgasms", "price": "8,000", "description": "( Amaretto, Vodka, Coffee liquor, Cream\nliquor, Milk" },
+          { "name": "Americano", "price": "8,000", "description": "( Campari, Sweet vermouth, Soda water )" }
         ],
         "tiki cocktail": [
-          { "name": "Passion fruit Hurricane", "price": "11,000", "description": "( Light rum, Dark rum, passion fruit juice,\norange juice, lime juice)" },
-          { "name": "Africa Zombie", "price": "11,000", "description": "(Dark rum, light rum, lime juice,\ngrenadine)" },
-          { "name": "Planter's punch", "price": "11,000", "description": "(Dark rum, simple syrup, lime juice,\nAngostura bitters)" },
-          { "name": "Rum Punch", "price": "11,000", "description": "( Dark rum, light rum, pineapple juice,\norange juice, lime juice, Grenadine.)" }
+          { "name": "Passion fruit Hurricane", "price": "8,000", "description": "( Light rum, Dark rum, passion fruit juice,\norange juice, lime juice)" },
+          { "name": "Africa Zombie", "price": "8,000", "description": "(Dark rum, light rum, lime juice,\ngrenadine)" },
+          { "name": "Planter's punch", "price": "8,000", "description": "(Dark rum, simple syrup, lime juice,\nAngostura bitters)" },
+          { "name": "Rum Punch", "price": "8,000", "description": "( Dark rum, light rum, pineapple juice,\norange juice, lime juice, Grenadine.)" }
         ],
         "signature cocktails": [
-          { "name": "Horn of plenty", "price": "12,000", "description": "( Brandy, Gin, Bourbon, spicy rum, triple\nsec, orange flavored Gin, orange bitters, a short of prosecco for garnish)" },
-          { "name": "Bullseye", "price": "12,000", "description": "( flavored Gin, whisky, tequila, apple\njuice, mojito syrup)" },
-          { "name": "RedHorn Rye", "price": "12,000", "description": "( American honey, smokey, whiskey, Tequila,\nGinger Bear)" },
-          { "name": "Wine Country mule", "price": "12,000", "description": "( Tequila, kiwi puree, mint leaf)" },
-          { "name": "whiskey wonder", "price": "12,000", "description": "( Bourbon whiskey, mint syrup, lime juice)" },
-          { "name": "Vintage Sparkle", "price": "12,000", "description": "( White rum, Gold rum, Dark rum, Grenadine)" },
-          { "name": "Crimson Kiss", "price": "12,000", "description": "(Gin, lime juice, Triple sec, menthy syrup)" },
-          { "name": "Smokey oak", "price": "12,000", "description": "(Vodka, Rum, Blue Curacao, lime juice,\nTriple sec)" }
+          { "name": "Horn of plenty", "price": "8,000", "description": "( Brandy, Gin, Bourbon, spicy rum, triple\nsec, orange flavored Gin, orange bitters, a short of prosecco for garnish)" },
+          { "name": "Bullseye", "price": "8,000", "description": "( flavored Gin, whisky, tequila, apple\njuice, mojito syrup)" },
+          { "name": "RedHorn Rye", "price": "8,000", "description": "( American honey, smokey, whiskey, Tequila,\nGinger Bear)" },
+          { "name": "Wine Country mule", "price": "8,000", "description": "( Tequila, kiwi puree, mint leaf)" },
+          { "name": "whiskey wonder", "price": "8,000", "description": "( Bourbon whiskey, mint syrup, lime juice)" },
+          { "name": "Vintage Sparkle", "price": "8,000", "description": "( White rum, Gold rum, Dark rum, Grenadine)" },
+          { "name": "Crimson Kiss", "price": "8,000", "description": "(Gin, lime juice, Triple sec, menthy syrup)" },
+          { "name": "Smokey oak", "price": "8,000", "description": "(Vodka, Rum, Blue Curacao, lime juice,\nTriple sec)" }
         ],
         "champagne cocktail": [
-          { "name": "Mimosa", "price": "12,000", "description": "( Champagne, orange juice)" },
-          { "name": "Peach bellini", "price": "12,000", "description": "( Champagne, peach syrup)" },
-          { "name": "Kiwi bellini", "price": "12,000", "description": "( Champagne, kiwi syrup)" },
-          { "name": "French 75", "price": "12,000", "description": "(Champagne, lemon juice, simple syrup,Gin)" }
+          { "name": "Mimosa", "price": "8,000", "description": "( Champagne, orange juice)" },
+          { "name": "Peach bellini", "price": "8,000", "description": "( Champagne, peach syrup)" },
+          { "name": "Kiwi bellini", "price": "8,000", "description": "( Champagne, kiwi syrup)" },
+          { "name": "French 75", "price": "8,000", "description": "(Champagne, lemon juice, simple syrup,Gin)" }
         ],
         "mocktail": [
-          { "name": "Sunset boulevard", "price": "8,000", "description": "( Apple juice, sprite, Grenadine)" },
-          { "name": "Shirley Temple", "price": "8,000" },
-          { "name": "watermelon pocoloco", "price": "8,000", "description": "( Watermelon syrup, apple juice, orange juice, orgeat syrup, Energy\ndrink)" },
-          { "name": "Lemonade", "price": "8,000", "description": "( Lemon juice, Elder flower syrup, sprite)" },
-          { "name": "Pineapple lime punch", "price": "8,000", "description": "( Pineapple juice, lime juice, orange syrup, vanilla syrup, energy\ndrink)" }
+          { "name": "Sunset boulevard", "price": "5,000", "description": "( Apple juice, sprite, Grenadine)" },
+          { "name": "Shirley Temple", "price": "5,000" },
+          { "name": "watermelon pocoloco", "price": "5,000", "description": "( Watermelon syrup, apple juice, orange juice, orgeat syrup, Energy\ndrink)" },
+          { "name": "Lemonade", "price": "5,000", "description": "( Lemon juice, Elder flower syrup, sprite)" },
+          { "name": "Pineapple lime punch", "price": "5,000", "description": "( Pineapple juice, lime juice, orange syrup, vanilla syrup, energy\ndrink)" }
         ],
         "shooters": [
           { "name": "Colour Kamikaze", "price": "12,000", "description": "(Grenadine, blue Curacao, menthe syrup, Vodka, Triple sec, Lime\njuice)" },
@@ -345,17 +345,17 @@
           { "name": "Blow Job", "price": "10,000", "description": "( Cream liquor, coffee liquor, whipped cream)" }
         ],
         "milkshake": [
-          { "name": "Banana milkshake", "price": "10,000", "description": "( Fresh banana, powered milk, liquid milk, ice cream, whipped cream)" },
-          { "name": "Oreo milkshake", "price": "12,000", "description": "( Oreo cookies, ice cream, liquid milk, powder milk, chocolate\nsyrup, whipped cream)" },
-          { "name": "Caramel milkshake", "price": "10,000", "description": "( Caramel syrup, ice cream, liquid milk, powder milk whipped cream)" },
-          { "name": "Tropical Temptation", "price": "10,000", "description": "( Ice cream, powdered milk, liquid milk, blue Curacao, whipped\ncream)" },
-          { "name": "Pink Paradise", "price": "10,000", "description": "( Ice cream, liquid milk, powder milk, strawberry syrup, whipped\ncream)" }
+          { "name": "Banana milkshake", "price": "8,000", "description": "( Fresh banana, powered milk, liquid milk, ice cream, whipped cream)" },
+          { "name": "Oreo milkshake", "price": "10,000", "description": "( Oreo cookies, ice cream, liquid milk, powder milk, chocolate\nsyrup, whipped cream)" },
+          { "name": "Caramel milkshake", "price": "8,000", "description": "( Caramel syrup, ice cream, liquid milk, powder milk whipped cream)" },
+          { "name": "Tropical Temptation", "price": "8,000", "description": "( Ice cream, powdered milk, liquid milk, blue Curacao, whipped\ncream)" },
+          { "name": "Pink Paradise", "price": "8,000", "description": "( Ice cream, liquid milk, powder milk, strawberry syrup, whipped\ncream)" }
         ],
         "smoothie": [
-          { "name": "Green smoothie", "price": "10,000", "description": "( Apple, Cucumber, Banana, spinach, Almond nut" },
-          { "name": "protein smoothie", "price": "10,000", "description": "( Avocado, Banana, almond milk, Oat, Honey)" },
-          { "name": "detoxing smoothie","price": "10,000", "description": "( Spinach, Green Apple, lemon juice, lime juice, Ginger, coconut\nwater, mints leaf)" },
-          { "name": "Sunrise", "price": "10,000", "description": "( Banana, watermelon, pineapple, cucumber, honey)" }
+          { "name": "Green smoothie", "price": "7,000", "description": "( Apple, Cucumber, Banana, spinach, Almond nut" },
+          { "name": "protein smoothie", "price": "7,000", "description": "( Avocado, Banana, almond milk, Oat, Honey)" },
+          { "name": "detoxing smoothie","price": "7,000", "description": "( Spinach, Green Apple, lemon juice, lime juice, Ginger, coconut\nwater, mints leaf)" },
+          { "name": "Sunrise", "price": "7,000", "description": "( Banana, watermelon, pineapple, cucumber, honey)" }
         ]
     },
       "house deals":{

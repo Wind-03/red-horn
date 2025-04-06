@@ -48,6 +48,8 @@ const MenuPage = () => {
         "champagne cocktail",
         "mocktail",
         "wine",
+        "smoothie",
+        "milkshake",
         "non alcoholic wine",
         "beer",
         "energy drinks",
@@ -62,8 +64,6 @@ const MenuPage = () => {
         "cream liquor",
         "aperatives",
         "shooters",
-        "milkshake",
-        "smoothie"
       ];
 
   return (
