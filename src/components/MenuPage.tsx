@@ -42,6 +42,11 @@ const MenuPage = () => {
       : activeMenu === "house deals"
       ? ["unlimited cocktail deals"]
       : [
+        "classic cocktail",
+        "signature cocktails",
+        "tiki cocktail",
+        "champagne cocktail",
+        "mocktail",
         "wine",
         "non alcoholic wine",
         "beer",
@@ -56,11 +61,6 @@ const MenuPage = () => {
         "champagne",
         "cream liquor",
         "aperatives",
-        "classic cocktail",
-        "tiki cocktail",
-        "signature cocktails",
-        "champagne cocktail",
-        "mocktail",
         "shooters",
         "milkshake",
         "smoothie"
