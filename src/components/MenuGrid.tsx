@@ -32,7 +32,7 @@ const MenuGrid: React.FC<MenuGridProps> = ({ items }) => {
               <div className="text-[#893340] font-bold text-[13px] lg:text-sm mt-2 block font-sk">
                 {item.options.map((option, i) => (
                   <div key={i} className="text-wrap">
-                    {option} {/* Each option displayed on a new line */}
+                    + {option} {/* Each option displayed on a new line */}
                   </div>
                 ))}
               </div>

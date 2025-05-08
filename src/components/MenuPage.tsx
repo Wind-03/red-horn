@@ -23,7 +23,7 @@ import menuData from "../Data/MenuData.json";
 
 const MenuPage = () => {
   const [activeMenu, setActiveMenu] = useState<
-    "food" | "drinks" | "house deals"
+    "food" | "drinks" | "house deals" | "shisha"
   >("food");
   const categories =
     activeMenu === "food"
@@ -41,6 +41,8 @@ const MenuPage = () => {
       ]
       : activeMenu === "house deals"
       ? ["unlimited cocktail deals"]
+      : activeMenu === "shisha"
+      ? ["shisha"]
       : [
         "classic cocktail",
         "signature cocktails",
@@ -97,6 +99,16 @@ const MenuPage = () => {
           }`}
         >
           House Deals
+        </button>
+        <button
+          onClick={() => setActiveMenu("shisha")}
+          className={`px-4 py-2 rounded-lg font-semibold ${
+            activeMenu === "shisha"
+              ? "bg-[#893340] text-white duration-500"
+              : ""
+          }`}
+        >
+          Shisha
         </button>
       </div>
       <div>
