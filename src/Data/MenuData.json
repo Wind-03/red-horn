@@ -354,7 +354,7 @@
           { "name": "Power horse", "price": "4,500" },
           { "name": "Black Bullet", "price": "5,000" }
         ],
-        "soft Drinks": [
+        "soft drinks": [
           { "name": "Orange juice", "price": "5,000" },
           { "name": "Pineapple juice", "price": "5,000" },
           { "name": "Apple juice", "price": "5,000" },
