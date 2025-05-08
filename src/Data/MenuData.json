@@ -377,7 +377,7 @@
         "shisha" :[
           { "name": "Single Pipe", "price": 7000 },
           { "name": "Double Pipe", "price": 10000 },
-          { "name": "Extra coal", "price": 15000 }
+          { "name": "Extra coal", "price": 1500 }
         ]
       }
       
