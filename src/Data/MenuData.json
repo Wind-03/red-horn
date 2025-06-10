@@ -53,13 +53,9 @@
         ]
       },
       {
-        "name": "Fettuccine Alfredo",
-        "price": "8000",
-        "description": "Fettuccine pasta adorned with tender mushroom & a creamy alfredo sauce.",
-        "options": [
-          "Chicken - ₦ 8,000",
-          "Prawns - ₦ 14,000"
-        ]
+        "name": "Chicken Pasta Stirfry",
+        "price": "16000",
+        "description": "Pasta stir fried with shredded chicken and veggies"
       },
       {
         "name": "Meatball veggies pasta",
