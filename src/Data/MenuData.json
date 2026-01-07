@@ -44,11 +44,6 @@
         "description": "Pasta stir fried with shredded chicken and veggies"
       },
       {
-        "name": "Seafood Pasta",
-        "price": "24,000",
-        "description": "Cream penne pasta base with shrimp, white base fish and prawns top with micro herds"
-      },
-      {
         "name": "Seafood Paella with Red Horn Steak",
         "price": "45,000",
         "description": "Spanish best rice base with red horn steak top with micro herd’s server with red wine"
@@ -57,6 +52,31 @@
         "name": "Thai Peanut Fillet Steak",
         "price": "40,000",
         "description": "Fillet steak with Thai veggies pasta mix with tomato or creamy sauce server with white wine"
+      },
+      {
+        "name": "Black Rice Coconut with Lamb Chop",
+        "price": "35,000",
+        "description": "Wild black rice base with coconut chips and milk top with lamb chop server with white wine"
+      },
+      {
+        "name": "Bavette Sirloin Steak",
+        "price": "40,000",
+        "description": "Sirloin steak base with creamy sauce top with mushroom side with crispy rosemary server with fruity red wine"
+      },
+       {
+        "name": "Lamb Shank",
+        "price": "50,000",
+        "description": "Red wine braised with lamb shank top butternut squash server with red wine"
+      },
+      {
+        "name": "Ribeye Steak",
+        "price": "52,000",
+        "description": "Pan set ribeye steak with veg and creamy tagliatelle pasta server with red wine"
+      },
+      {
+        "name": "T Bone Steak",
+        "price": "38,000",
+        "description": "Pan set t bone steak with roasted veggies and grilled Irish potato top with black creamy sauce server with red wine"
       }
     ],
     "rice special": [
@@ -79,12 +99,8 @@
           "Turkey: ₦ 12,000",
           "Prawns: ₦ 14,000"
         ]
-      },
-      {
-        "name": "Black Rice Coconut with Lamb Chop",
-        "price": "35,000",
-        "description": "Wild black rice base with coconut chips and milk top with lamb chop server with white wine"
       }
+
     ],
     "chicken special": [
       {
@@ -111,29 +127,9 @@
         "price": "30,000"
       },
       {
-        "name": "Ribeye Steak",
-        "price": "52,000",
-        "description": "Pan set ribeye steak with veg and creamy tagliatelle pasta server with red wine"
-      },
-      {
-        "name": "Bavette Sirloin Steak",
-        "price": "40,000",
-        "description": "Sirloin steak base with creamy sauce top with mushroom side with crispy rosemary server with fruity red wine"
-      },
-      {
         "name": "RedHorn special",
         "price": "50,000",
         "description": "( fish, jumbo prawns ,gizzard suya , corn, yam fries and roasted plantain )."
-      },
-      {
-        "name": "Lamb Shank",
-        "price": "50,000",
-        "description": "Red wine braised with lamb shank top butternut squash server with red wine"
-      },
-      {
-        "name": "T Bone Steak",
-        "price": "38,000",
-        "description": "Pan set t bone steak with roasted veggies and grilled Irish potato top with black creamy sauce server with red wine"
       }
     ],
     "salads": [
@@ -150,6 +146,13 @@
         "name": "Chicken avocado salad",
         "price": "12,000",
         "description": "Grilled chicken breast, chopped Roman lettuce, avocado drizzle with olive oil and a beautifully created salad dressing."
+      }
+    ],
+        "pasta": [
+      {
+        "name": "Seafood Pasta",
+        "price": "24,000",
+        "description": "Cream penne pasta base with shrimp, white base fish and prawns top with micro herds"
       }
     ],
     "sides": [

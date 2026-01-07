@@ -37,7 +37,8 @@ const MenuPage = () => {
         "grills",
         "salads",
         "sides",
-        "desert"
+        "desert",
+        "pasta"
       ]
       : activeMenu === "house deals"
       ? ["unlimited cocktail deals"]
