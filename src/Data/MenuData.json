@@ -29,19 +29,9 @@
     ],
     "main courses": [
       {
-        "name": "Chicken Pasta Stirfry",
-        "price": "16,000",
-        "description": "Pasta stir fried with shredded chicken and veggies"
-      },
-      {
         "name": "Seafood Paella with Red Horn Steak",
         "price": "45,000",
         "description": "Spanish best rice base with red horn steak top with micro herd’s server with red wine"
-      },
-      {
-        "name": "Thai Peanut Fillet Steak",
-        "price": "40,000",
-        "description": "Fillet steak with Thai veggies pasta mix with tomato or creamy sauce server with white wine"
       },
       {
         "name": "Black Rice Coconut with Lamb Chop",
@@ -53,20 +43,15 @@
         "price": "40,000",
         "description": "Sirloin steak base with creamy sauce top with mushroom side with crispy rosemary server with fruity red wine"
       },
-       {
+      {
         "name": "Lamb Shank",
         "price": "50,000",
         "description": "Red wine braised with lamb shank top butternut squash server with red wine"
       },
       {
-        "name": "Ribeye Steak",
-        "price": "52,000",
-        "description": "Pan set ribeye steak with veg and creamy tagliatelle pasta server with red wine"
-      },
-      {
         "name": "T Bone Steak",
         "price": "38,000",
-        "description": "Pan set t bone steak with roasted veggies and grilled Irish potato top with black creamy sauce server with red wine"
+        "description": "Pan set T-bone steak with roasted veggies and grilled Irish potato top with black creamy sauce served with red wine"
       }
     ],
     "rice special": [
@@ -79,13 +64,8 @@
         "name": "Cajun Rice",
         "price": "8,000",
         "description": "Rice sauté with veggies drizzled with olive oil and Cajun spices.",
-        "options": [
-          "Chicken: ₦ 8,000",
-          "Turkey: ₦ 12,000",
-          "Prawns: ₦ 14,000"
-        ]
+        "options": ["Chicken: ₦ 8,000", "Turkey: ₦ 12,000", "Prawns: ₦ 14,000"]
       }
-
     ],
     "chicken special": [
       {
@@ -117,7 +97,22 @@
         "description": "( fish, jumbo prawns ,gizzard suya , corn, yam fries and roasted plantain )."
       }
     ],
-        "pasta": [
+    "pasta": [
+      {
+        "name": "Thai Peanut Fillet Steak",
+        "price": "40,000",
+        "description": "Fillet steak with Thai veggies pasta mix with tomato or creamy sauce server with white wine"
+      },
+      {
+        "name": "Ribeye Steak",
+        "price": "52,000",
+        "description": "Pan set ribeye steak with veggies and creamy or Tomato based tagliatelle pasta server with red wine"
+      },
+      {
+        "name": "Chicken Pasta Stirfry",
+        "price": "16,000",
+        "description": "Pasta stir fried with shredded chicken and veggies"
+      },
       {
         "name": "Seafood Pasta",
         "price": "24,000",
@@ -446,21 +441,17 @@
       { "name": "Flirt Vodka", "price": "30,000" },
       { "name": "Ciroc vodka", "price": "100,000" }
     ],
-    "rum": [
-      { "name": "Bacardi", "price": "50,000" }
-    ],
+    "rum": [{ "name": "Bacardi", "price": "50,000" }],
     "cream liquor": [
       { "name": "Baileys", "price": "70,000" },
       { "name": "Best Cream", "price": "30,000" }
     ],
-    "aperatives": [
-      { "name": "Campari Medium", "price": "40,000" }
-    ],
+    "aperatives": [{ "name": "Campari Medium", "price": "40,000" }],
     "non alcoholic wine": [
       { "name": "Casa Dorado", "price": "30,000" },
       { "name": "Bolls", "price": "30,000" }
     ],
-     "alcoholic wine": [
+    "alcoholic wine": [
       { "name": "Nederland", "price": "40,000" },
       { "name": "Lafiole", "price": "40,000" },
       { "name": "Mini kiss", "price": "35,000" },
@@ -482,7 +473,7 @@
       { "name": "Sprite", "price": "2,000" },
       { "name": "Bottle water", "price": "1,000" }
     ],
-    "juice":[
+    "juice": [
       { "name": "Hollandia Yoghurt", "price": "5,000" },
       { "name": "Orange juice", "price": "5,000" },
       { "name": "Pineapple juice", "price": "5,000" },
