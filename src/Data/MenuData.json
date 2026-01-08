@@ -7,16 +7,6 @@
         "description": "Diced chicken sauté with veggies in a chilli sauce."
       },
       {
-        "name": "RedHorn fish finger",
-        "price": "10,000",
-        "description": "Fish coated in a flour batter, deep fried and served with Tarter sauce."
-      },
-      {
-        "name": "Garden fresh spring roll",
-        "price": "8,000",
-        "description": "Home made vegetable spring rolls, served with a side of Chef’s special cocktail sauce."
-      },
-      {
         "name": "Potatoes crocket",
         "price": "12,000",
         "description": "Potatoes mixed with minced meat, veggies and cheese, deep fried and served with Chef’s special cocktail sauce."
@@ -84,11 +74,6 @@
         "name": "Oriental Rice",
         "price": "15,000",
         "description": "Basmati rice sauté with minced meat and veggies, drizzled with touch of soy sauce, oyster sauce and sesame oil."
-      },
-      {
-        "name": "Yaggi Rice",
-        "price": "12,000",
-        "description": "Basmati rice cooked in tomato sauce with beef chunks and suya spices."
       },
       {
         "name": "Cajun Rice",
