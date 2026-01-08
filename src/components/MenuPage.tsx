@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import MenuGrid from "./MenuGrid";
+
 import menuData from "../Data/MenuData.json";
 
 const MenuPage = () => {
@@ -24,14 +25,32 @@ const MenuPage = () => {
       : activeMenu === "shisha"
       ? ["shisha"]
       : [
-          "mexican premium cocktails (tequila base)",
-          "classic cocktails",
+          // "classic cocktail",
+          // "signature cocktails",
+          // "tiki cocktail",
+          // "champagne cocktail",
+          // "mocktail",
+          "mexican premium cocktails [tequila base]",
           "tiki rum base cocktails",
           "martini classic",
-          "classic mocktails (dry fruit mocktails)",
-          "smoothies",
+          "classic mocktails [dry fruit mocktails]",
           "milkshake",
-          "signature cocktails",
+          "smoothies",
+          "shots",
+          "brandy",
+          "whiskey",
+          "tequila",
+          "gin",
+          "vodka",
+          "rum",
+          "cream liquor",
+          "aperatives",
+          "alcoholic wine",
+          "non alcoholic wine",
+          "beer",
+          "energy drinks",
+          "soft drinks",
+          "juice",
           "extra",
         ];
 

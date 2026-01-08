@@ -63,7 +63,7 @@
         "price": "40,000",
         "description": "Sirloin steak base with creamy sauce top with mushroom side with crispy rosemary server with fruity red wine"
       },
-      {
+       {
         "name": "Lamb Shank",
         "price": "50,000",
         "description": "Red wine braised with lamb shank top butternut squash server with red wine"
@@ -94,8 +94,13 @@
         "name": "Cajun Rice",
         "price": "8,000",
         "description": "Rice sauté with veggies drizzled with olive oil and Cajun spices.",
-        "options": ["Chicken: ₦ 8,000", "Turkey: ₦ 12,000", "Prawns: ₦ 14,000"]
+        "options": [
+          "Chicken: ₦ 8,000",
+          "Turkey: ₦ 12,000",
+          "Prawns: ₦ 14,000"
+        ]
       }
+
     ],
     "chicken special": [
       {
@@ -116,7 +121,18 @@
         "description": "Chinese noodles well cooked with beef base with veggies top with chilli"
       }
     ],
-    "pasta": [
+    "grills": [
+      {
+        "name": "Lamb chops",
+        "price": "30,000"
+      },
+      {
+        "name": "RedHorn special",
+        "price": "50,000",
+        "description": "( fish, jumbo prawns ,gizzard suya , corn, yam fries and roasted plantain )."
+      }
+    ],
+        "pasta": [
       {
         "name": "Seafood Pasta",
         "price": "24,000",
@@ -166,7 +182,7 @@
     ]
   },
   "drinks": {
-    "mexican premium cocktails (tequila base)": [
+    "mexican premium cocktails [tequila base]": [
       {
         "name": "Mexican Firing Squad",
         "price": "8,000",
@@ -188,7 +204,7 @@
         "description": "(2oz Tequila, 1oz lemon juice, 2oz pineapple juice)"
       }
     ],
-    "classic cocktails": [
+    "classic cocktail": [
       {
         "name": "Old Cuban",
         "price": "8,000",
@@ -299,7 +315,7 @@
         "description": "(2oz Gin, 2oz Dry vermouth, Dashes of Angostura bitters)"
       }
     ],
-    "classic mocktails (dry fruit mocktails)": [
+    "classic mocktails [dry fruit mocktails]": [
       {
         "name": "Watermelon Mojito",
         "price": "5,000",
@@ -412,7 +428,82 @@
       { "name": "Liquor", "price": "3,000" },
       { "name": "Campari", "price": "3,000" },
       { "name": "Cognac", "price": "8,000" },
-      { "name": "Irish cream", "price": "3,000" }
+      { "name": "Irish cream", "price": "3,000" },
+      { "name": "Create Your Drink", "price": "Determined after creation" }
+    ],
+    "shots": [
+      { "name": "Brandy", "price": "8,000" },
+      { "name": "Tequila", "price": "4,000" },
+      { "name": "Rum", "price": "3,000" },
+      { "name": "Vodka", "price": "3,000" },
+      { "name": "Gin", "price": "3,000" },
+      { "name": "Whiskey", "price": "3,000" }
+    ],
+    "brandy": [
+      { "name": "Hennessy VS", "price": "110,000" },
+      { "name": "Martel Vs", "price": "100,000" }
+    ],
+    "whiskey": [
+      { "name": "Jameson Green", "price": "75,000" },
+      { "name": "William Lawson", "price": "60,000" }
+    ],
+    "tequila": [
+      { "name": "Olmeca tequila", "price": "70,000" },
+      { "name": "Camino Tequila", "price": "50,000" },
+      { "name": "Sierra tequila", "price": "50,000" }
+    ],
+    "gin": [
+      { "name": "Hendrick's Gin", "price": "100,000" },
+      { "name": "Gordon's Gin", "price": "30,000" }
+    ],
+    "vodka": [
+      { "name": "Absolute Vodka", "price": "50,000" },
+      { "name": "Flirt Vodka", "price": "30,000" },
+      { "name": "Ciroc vodka", "price": "100,000" }
+    ],
+    "rum": [
+      { "name": "Bacardi", "price": "50,000" }
+    ],
+    "cream liquor": [
+      { "name": "Baileys", "price": "70,000" },
+      { "name": "Best Cream", "price": "30,000" }
+    ],
+    "aperatives": [
+      { "name": "Campari Medium", "price": "40,000" }
+    ],
+    "non alcoholic wine": [
+      { "name": "Casa Dorado", "price": "30,000" },
+      { "name": "Bolls", "price": "30,000" }
+    ],
+     "alcoholic wine": [
+      { "name": "Nederland", "price": "40,000" },
+      { "name": "Lafiole", "price": "40,000" },
+      { "name": "Mini kiss", "price": "35,000" },
+      { "name": "7Hills", "price": "35,000" }
+    ],
+    "beer": [
+      { "name": "Heineken", "price": "4,000" },
+      { "name": "Stout", "price": "4,000" },
+      { "name": "Smirnoff Ice", "price": "4,000" },
+      { "name": "Desperados", "price": "4,000" }
+    ],
+    "energy drinks": [
+      { "name": "Monster", "price": "4,000" },
+      { "name": "Power horse", "price": "4,500" }
+    ],
+    "soft drinks": [
+      { "name": "Coke", "price": "2,000" },
+      { "name": "Fanta", "price": "2,000" },
+      { "name": "Sprite", "price": "2,000" },
+      { "name": "Bottle water", "price": "1,000" }
+    ],
+    "juice":[
+      { "name": "Hollandia Yoghurt", "price": "5,000" },
+      { "name": "Orange juice", "price": "5,000" },
+      { "name": "Pineapple juice", "price": "5,000" },
+      { "name": "Apple juice", "price": "5,000" },
+      { "name": "Exotic", "price": "5,000" },
+      { "name": "Active", "price": "5,000" }
     ]
   },
   "house deals": {
