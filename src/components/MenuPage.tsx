@@ -1,24 +1,6 @@
 "use client";
 import { useState } from "react";
-import MenuGrid from "./MenuGrid"; // Grid component for displaying items
-// import menuData from "../Data/MenuData.json"; // Your menu data
-
-// interface MenuItem {
-//   id: number;
-//   name: string;
-//   price: string;
-//   description: string;
-// }
-
-// interface MenuData {
-//   food: {
-//     [key: string]: MenuItem[];
-//   };
-//   drinks: {
-//     [key: string]: MenuItem[];
-//   };
-// }
-
+import MenuGrid from "./MenuGrid";
 import menuData from "../Data/MenuData.json";
 
 const MenuPage = () => {
@@ -27,48 +9,31 @@ const MenuPage = () => {
   >("food");
   const categories =
     activeMenu === "food"
-      ?[
-        "starter",
-        "main courses",
-        "rice special",
-        "burger special",
-        "chicken special",
-        "soups",
-        "grills",
-        "salads",
-        "sides",
-        "desert",
-        "pasta"
-      ]
+      ? [
+          "starter",
+          "main courses",
+          "rice special",
+          "chicken special",
+          "soups",
+          "sides",
+          "desert",
+          "pasta",
+        ]
       : activeMenu === "house deals"
       ? ["unlimited cocktail deals"]
       : activeMenu === "shisha"
       ? ["shisha"]
       : [
-        "classic cocktail",
-        "signature cocktails",
-        "tiki cocktail",
-        "champagne cocktail",
-        "mocktail",
-        "milkshake",
-        "smoothie",
-        "shooters",
-        "shots",
-        "brandy",
-        "whiskey",
-        "tequila",
-        "gin",
-        "vodka",
-        "rum",
-        "champagne",
-        "cream liquor",
-        "aperatives",
-        "wine",
-        "non alcoholic wine",
-        "beer",
-        "energy drinks",
-        "soft drinks",
-      ];
+          "mexican premium cocktails (tequila base)",
+          "classic cocktails",
+          "tiki rum base cocktails",
+          "martini classic",
+          "classic mocktails (dry fruit mocktails)",
+          "smoothies",
+          "milkshake",
+          "signature cocktails",
+          "extra",
+        ];
 
   return (
     <div className="p-6 max-w-screen-2xl mx-auto relative mb-12">
