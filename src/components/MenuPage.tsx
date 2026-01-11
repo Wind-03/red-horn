@@ -25,8 +25,8 @@ const MenuPage = () => {
       : activeMenu === "shisha"
       ? ["shisha"]
       : [
-          // "classic cocktail",
-          // "signature cocktails",
+          "classic cocktail",
+          "signature cocktails",
           // "tiki cocktail",
           // "champagne cocktail",
           // "mocktail",
