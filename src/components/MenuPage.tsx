@@ -30,6 +30,7 @@ const MenuPage = () => {
           // "tiki cocktail",
           // "champagne cocktail",
           // "mocktail",
+          "extra",
           "mexican premium cocktails [tequila base]",
           "tiki rum base cocktails",
           "martini classic",
@@ -51,7 +52,6 @@ const MenuPage = () => {
           "energy drinks",
           "soft drinks",
           "juice",
-          "extra",
         ];
 
   return (

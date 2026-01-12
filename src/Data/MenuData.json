@@ -31,27 +31,27 @@
       {
         "name": "Seafood Paella with Red Horn Steak",
         "price": "45,000",
-        "description": "Spanish best rice base with red horn steak top with micro herd’s server with red wine"
+        "description": "Spanish best rice base with RedHorn steak top with micro herd’s served with red wine"
       },
       {
         "name": "Black Rice Coconut with Lamb Chop",
         "price": "35,000",
-        "description": "Wild black rice base with coconut chips and milk top with lamb chop server with white wine"
+        "description": "Wild black rice base with coconut chips and milk topped with lamb chop served with white wine"
       },
       {
         "name": "Bavette Sirloin Steak",
         "price": "40,000",
-        "description": "Sirloin steak base with creamy sauce top with mushroom side with crispy rosemary server with fruity red wine"
+        "description": "Sirloin steak base with creamy sauce top with mushroom side with crispy rosemary served with fruity red wine"
       },
       {
         "name": "Lamb Shank",
         "price": "50,000",
-        "description": "Red wine braised with lamb shank top butternut squash server with red wine"
+        "description": "Red wine braised with lamb shank top butternut squash served with red wine"
       },
       {
         "name": "T Bone Steak",
         "price": "38,000",
-        "description": "Pan set T-bone steak with roasted veggies and grilled Irish potato top with black creamy sauce served with red wine"
+        "description": "Pan set T-bone steak with roasted veggies and grilled Irish potato with black creamy sauce served with red wine"
       }
     ],
     "rice special": [
@@ -83,7 +83,7 @@
       {
         "name": "Easy Beef Noodles Soup",
         "price": "10,000",
-        "description": "Chinese noodles well cooked with beef base with veggies top with chilli"
+        "description": "Chinese noodles well cooked with beef base with veggies top with chicken"
       }
     ],
     "grills": [
@@ -101,12 +101,12 @@
       {
         "name": "Thai Peanut Fillet Steak",
         "price": "40,000",
-        "description": "Fillet steak with Thai veggies pasta mix with tomato or creamy sauce server with white wine"
+        "description": "Fillet steak with Thai veggies pasta mix with tomato or creamy sauce served with white wine"
       },
       {
         "name": "Ribeye Steak",
         "price": "52,000",
-        "description": "Pan set ribeye steak with veggies and creamy or Tomato based tagliatelle pasta server with red wine"
+        "description": "Pan set ribeye steak with veggies and creamy or Tomato based tagliatelle pasta served with red wine"
       },
       {
         "name": "Chicken Pasta Stirfry",
@@ -116,7 +116,7 @@
       {
         "name": "Seafood Pasta",
         "price": "24,000",
-        "description": "Cream penne pasta base with shrimp, white base fish and prawns top with micro herds"
+        "description": "Cream penne pasta base with shrimp, white base fish and prawns topped with micro herb"
       }
     ],
     "sides": [
@@ -486,7 +486,7 @@
     "unlimited cocktail deals": [
       {
         "name": "Five Cocktail Combo",
-        "description": "Horn of Plenty, Rusty Nail, Long Island, Africa Zombie, woo-woo",
+        "description": "Tequilla horney bee, Mexican firing squad, Cuba libre, Blue lagoon, Lemon drop",
         "price": 30000
       }
     ]
