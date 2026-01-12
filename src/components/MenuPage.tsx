@@ -13,7 +13,7 @@ const MenuPage = () => {
       ? [
           "starter",
           "main courses",
-          "rice special",
+          "rice dish",
           "chicken special",
           "soups",
           "sides",
