@@ -13,12 +13,12 @@ const MenuPage = () => {
       ? [
           "starter",
           "main courses",
-          "rice dish",
+          "rice dishes",
+          "pasta",
           "chicken special",
           "soups",
           "sides",
           "desert",
-          "pasta",
         ]
       : activeMenu === "house deals"
       ? ["unlimited cocktail deals"]

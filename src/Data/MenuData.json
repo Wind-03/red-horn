@@ -54,7 +54,7 @@
         "description": "Pan set T-bone steak with roasted veggies and grilled Irish potato with black creamy sauce served with red wine"
       }
     ],
-    "rice dish": [
+    "rice dishes": [
       {
         "name": "Oriental Rice",
         "price": "15,000",
@@ -63,7 +63,7 @@
       {
         "name": "Thai Fried Rice",
         "price": "13,000",
-        "description": "Well cooked long grain rice base with smoke turkey mix with egg and veggies served with lemon."
+        "description": "Well cooked long grain rice base with smoked turkey mix with egg and veggies served with lemon."
       },
       {
         "name": "Yangzhou Fried Rice",
@@ -101,7 +101,7 @@
       {
         "name": "Cacio E Pepe Pasta",
         "price": "10,000",
-        "description": "Well cooked Pasta base with white wine top with black pepper and pepper sauce"
+        "description": "Well cooked Pasta base with white wine topped with black pepper and pepper sauce"
       },
       {
         "name": "Seafood Pasta",
