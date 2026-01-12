@@ -67,6 +67,28 @@
         "options": ["Chicken: ₦ 8,000", "Turkey: ₦ 12,000", "Prawns: ₦ 14,000"]
       }
     ],
+    "pasta": [
+      {
+        "name": "Thai Peanut Fillet Steak",
+        "price": "40,000",
+        "description": "Fillet steak with Thai veggies pasta mix with tomato or creamy sauce served with white wine"
+      },
+      {
+        "name": "Ribeye Steak",
+        "price": "52,000",
+        "description": "Pan set ribeye steak with veggies and creamy or Tomato based tagliatelle pasta served with red wine"
+      },
+      {
+        "name": "Chicken Pasta Stirfry",
+        "price": "16,000",
+        "description": "Pasta stir fried with shredded chicken and veggies"
+      },
+      {
+        "name": "Seafood Pasta",
+        "price": "24,000",
+        "description": "Cream penne pasta base with shrimp, white base fish and prawns topped with micro herb"
+      }
+    ],
     "chicken special": [
       {
         "name": "Chicken Lap curry",
@@ -95,28 +117,6 @@
         "name": "RedHorn special",
         "price": "50,000",
         "description": "( fish, jumbo prawns ,gizzard suya , corn, yam fries and roasted plantain )."
-      }
-    ],
-    "pasta": [
-      {
-        "name": "Thai Peanut Fillet Steak",
-        "price": "40,000",
-        "description": "Fillet steak with Thai veggies pasta mix with tomato or creamy sauce served with white wine"
-      },
-      {
-        "name": "Ribeye Steak",
-        "price": "52,000",
-        "description": "Pan set ribeye steak with veggies and creamy or Tomato based tagliatelle pasta served with red wine"
-      },
-      {
-        "name": "Chicken Pasta Stirfry",
-        "price": "16,000",
-        "description": "Pasta stir fried with shredded chicken and veggies"
-      },
-      {
-        "name": "Seafood Pasta",
-        "price": "24,000",
-        "description": "Cream penne pasta base with shrimp, white base fish and prawns topped with micro herb"
       }
     ],
     "sides": [
