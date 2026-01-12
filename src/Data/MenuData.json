@@ -31,7 +31,7 @@
       {
         "name": "Seafood Paella with Red Horn Steak",
         "price": "45,000",
-        "description": "Spanish best rice base with RedHorn steak top with micro herd’s served with red wine"
+        "description": "Spanish best rice base with RedHorn steak topped with micro herb’s served with red wine"
       },
       {
         "name": "Black Rice Coconut with Lamb Chop",
@@ -41,12 +41,12 @@
       {
         "name": "Bavette Sirloin Steak",
         "price": "40,000",
-        "description": "Sirloin steak base with creamy sauce top with mushroom side with crispy rosemary served with fruity red wine"
+        "description": "Sirloin steak base with creamy sauce topped with mushroom side with crispy rosemary served with fruity red wine"
       },
       {
         "name": "Lamb Shank",
         "price": "50,000",
-        "description": "Red wine braised with lamb shank top butternut squash served with red wine"
+        "description": "Red wine braised with lamb shank topped butternut squash served with red wine"
       },
       {
         "name": "T Bone Steak",
@@ -83,7 +83,7 @@
       {
         "name": "Easy Beef Noodles Soup",
         "price": "10,000",
-        "description": "Chinese noodles well cooked with beef base with veggies top with chicken"
+        "description": "Chinese noodles well cooked with beef base with veggies topped with chicken"
       }
     ],
     "grills": [
