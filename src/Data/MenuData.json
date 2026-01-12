@@ -203,7 +203,7 @@
       {
         "name": "Electric Lagoon",
         "price": "8,000",
-        "description": "(2oz Rum, 1oz pineapple juice, 1oz Blue Curacao, spirit)"
+        "description": "(2oz Rum, 1oz pineapple juice, 1oz Blue Curacao, Sprite)"
       },
       {
         "name": "Cuba Libre",
@@ -486,7 +486,7 @@
     "unlimited cocktail deals": [
       {
         "name": "Five Cocktail Combo",
-        "description": "Tequilla horney bee, Mexican firing squad, Cuba libre, Blue lagoon, Lemon drop",
+        "description": "Tequila horney bee, Mexican firing squad, Cuba libre, Blue lagoon, Lemon drop",
         "price": 30000
       }
     ]
